@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241127231000" channel="C111.api.telerama.fr" stop="20241128005000">
+    <title>Ninjababy</title>
+    <desc lang="fr">Avec de nombreux rêves dans la tête concernant son avenir, Rakel est pleine d'ambition et d'espoir. Mais un jour, soutenue par son amie, elle décide de faire un test de grossesse qui s'avère positif. Elle apprend alors qu'elle est enceinte depuis six mois, à la suite d'une aventure d'un soir. Pour la jeune femme, le choc est trop important : elle prend peur et conclut que la meilleure solution pour elle et le bébé reste l'adoption. Pour lui compliquer la vie, un personnage qu'elle dessinait dans son carnet de notes se met à apparaître partout dans sa vie : Ninjababy. Et ce dernier ne va pas se priver de commenter ses décisions... - Critique : Un peu « fille perdue, cheveux gras » norvégienne, la jeune Rakel fait beaucoup la fête et un peu d’aïkido, collectionnant sans modération les cuites et les amants. C’est chez elle, à sa table de travail, qu’elle concilie son tempérament un peu immature et un grand projet d’avenir : créer des bandes dessinées, être publiée… Jusqu’au jour où des préoccupations inimaginables la rattrapent : Rakel découvre qu’elle est enceinte, et qu’il est largement trop tard pour avorter. Un peu inquiet de la voir essayer de fuir par tous les moyens ses responsabilités de mère, le bébé qu’elle porte entre dans sa vie comme un personnage de bande dessinée, lui parle son langage…
+
+Sur le ton complice de la comédie, mais aussi avec un surprenant souci de vérité, la réalisatrice raconte une jeunesse éternellement rêveuse et repliée sur elle-même, comme éternellement critiquée pour son refus de s’adapter à la réalité de la vie… L’enfant à naître, bientôt surnommé Ninja Baby, surgit comme un rappel à l’ordre et force Rakel à sortir de sa bulle, à rencontrer des soignantes, à chercher le père… Mais il ne s’agit pas de rentrer dans le droit chemin. Rakel va de l’avant comme elle est, pleine d’idées et sans aucun instinct maternel. À travers les imperfections de son héroïne, Ninja Baby offre un regard nouveau et utile sur l’identité féminine. S’affirmer malgré les jugements, vivre à sa façon l’enfantement : cette fiction est bonne conseillère.</desc>
+    <credits>
+      <actor>Trine Wiggen</actor>
+      <actor>Berning Arthur</actor>
+      <actor>Janne Heltberg</actor>
+      <actor>Kjaersti Odden</actor>
+      <actor>Nader Khademi</actor>
+      <actor>Morten Svartveit</actor>
+      <actor>Evelyn Rasmussen Osazuwa</actor>
+      <actor>Kristine Thorp</actor>
+      <actor>Silya Nymoen</actor>
+      <actor>Tora Christine Dietrichson</actor>
+      <actor>Mathias Kolstad Eriksen</actor>
+      <actor>Anita Gulliksen</actor>
+      <writer>Yngvild Sve Flikke</writer>
+      <writer>Johan Fasting</writer>
+      <writer>Inga Sætre</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/12/1222d8cd71f14840958092466b040e52.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241128005000" channel="C111.api.telerama.fr" stop="20241128024000">
+    <title>Gipsy Queen</title>
+    <desc lang="fr">De nouveau enceinte, Alina Gheorghiu, jeune Rom que tous surnomment Ali, décide d'interrompre sa carrière de boxeuse professionnelle en Roumanie. Voyant son rêve brisé, son père, qui l'entraînait, la chasse de leur village. Installée désormais à Hambourg, Ali partage avec ses deux jeunes enfants, Esmeralda et Mateo, le logement de Mary, une danseuse qui peine à trouver des contrats. Pour survivre, elle fait des ménages au noir dans un grand hôtel. Quand elle en est renvoyée, elle trouve un petit boulot dans le bar de Tanne, qui organise au sous-sol des combats de boxe.</desc>
+    <credits>
+      <actor>Tobias Moretti</actor>
+      <actor>Catrin Striebeck</actor>
+      <actor>Aleksandar Jovanovic</actor>
+      <actor>Irina Kurbanova</actor>
+      <actor>Katharina Behrens</actor>
+      <actor>Sergiu Costache</actor>
+      <actor>Alina Serban</actor>
+      <actor>Jürgen Blin</actor>
+      <actor>Sarah Carcamo Vallejos</actor>
+      <actor>Aslan Yilmaz Tabak</actor>
+      <actor>Sorin Mihai</actor>
+      <actor>Brian Al Amin</actor>
+      <writer>Hüseyin Tabak</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/2605586356161fa9d7ecff5d0599698e98c22e8a.jpg" />
+    <subtitles type="onscreen">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128024000" channel="C111.api.telerama.fr" stop="20241128030500">
+    <title>Les maîtres des abeilles</title>
+    <sub-title>Cameroun, le miel sacré du peuple Baka</sub-title>
+    <desc lang="fr">Saison:1 - Episode:15 - Chasseurs-cueilleurs, les pygmées baka, au Cameroun, sont spécialistes de la récolte du miel sauvage, déjouant les ruses des abeilles, qu'ils respectent profondément.</desc>
+    <date>2017</date>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/10/ef24b04c030a6cb1b2bcc81447de61a731136908.jpg" />
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128030500" channel="C111.api.telerama.fr" stop="20241128041000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128041000" channel="C111.api.telerama.fr" stop="20241128044000">
+    <title>Urgent : cherche logement à Dublin</title>
+    <desc lang="fr">En Irlande, à Dublin, la crise immobilière se porte malheureusement bien et laisse à la rue des familles entières, où les jeunes sont les plus fragilisés.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/23/7ee3f960569d43dca9b80dca0333d37b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128044000" channel="C111.api.telerama.fr" stop="20241128044500">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128044500" channel="C111.api.telerama.fr" stop="20241128045500">
+    <title>Le dessous des images</title>
+    <sub-title>Un haka au Parlement</sub-title>
+    <desc lang="fr">En décembre 2023, une vidéo de haka lors d'une session du Parlement néo-zélandais a bousculé l'opinion publique. Cette performance réalisée par une élue maorie dans une institution publique est un cri politique. Son succès viral a donné un coup de projecteur à la culture maorie.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128045500" channel="C111.api.telerama.fr" stop="20241128055000">
+    <title>Dans les bottes de Lucky Luke</title>
+    <sub-title>Les fantômes de l'Ouest</sub-title>
+    <desc lang="fr">Après avoir découvert avec enthousiasme que le folklore western existait toujours, Jul poursuit son enquête sur les traces de Lucky Luke. Il rencontre des chauffeurs de trucks rappelant les diligences du passé, traverse des villages endormis le long de routes sans fin, embarque dans une locomotive à vapeur et découvre une mine fantôme que la ruée vers l'or semble avoir laissée intacte. Lorsqu'il est accueilli par des descendants des peuples sioux et apache dans leurs réserves du Dakota du Sud et du Nouveau-Mexique, les ombres de la conquête de l'Ouest se projettent sur sa route.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/6c689cdc41c94b11ba5420486cd0ed25.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128055000" channel="C111.api.telerama.fr" stop="20241128060000">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128060000" channel="C111.api.telerama.fr" stop="20241128065500">
+    <title>Fous du volant en Laponie</title>
+    <desc lang="fr">Chaque été, dans le nord de la Finlande, la petite localité de Pello, 3200 habitants, accueille 750 pilotes pour une course automobile pas comme les autres.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/04/19/cb1605ad-b3f7-40ec-9487-1ba77414a0e3.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128065500" channel="C111.api.telerama.fr" stop="20241128074000">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Lawren Harris, peintre promoteur du Canada - Mazu, figure maternelle des Taïwanais - En Polynésie, des maisons les pieds dans l'eau.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/17/3260cd4ae863795f2594aff01b8a5b2766539495_BF243B6694C35C555BBB92F92E10C0F1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128074000" channel="C111.api.telerama.fr" stop="20241128082500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">En Thaïlande, l'écrivain Rattawut Lapcharoensap révèle les luttes et les aspirations de la jeunesse de Bangkok. Né en 1979, avec la double culture américaine et thaïlandaise, il tente de regarder son pays sans préjugés.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/14/84ee774754004ba186b1e5aefc349bee.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128082500" channel="C111.api.telerama.fr" stop="20241128091000">
+    <title>Bienvenue à Saint-Moritz ! Luxe, neige et glisse</title>
+    <desc lang="fr">Perché à plus de 1800 mètres d'altitude au coeur des Alpes suisses, Saint-Moritz compte parmi les stations de ski les plus huppées d'Europe.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/15/391a95e17cbc4e358d6589ae83107567.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128091000" channel="C111.api.telerama.fr" stop="20241128100500">
+    <title>La grande histoire du ski</title>
+    <desc lang="fr">Aujourd'hui encore, les nomades mongols perpétuent les coutumes de leurs ancêtres, qui furent parmi les premiers à chausser des skis, il y a plus de 10 000 ans. Le ski n'est donc pas une invention récente - l'homme ayant toujours eu besoin de se déplacer sur la neige pour chasser -, mais son essor date de la première traversée du Groenland par le Norvégien Nansen, en 1888. Histoire du ski.</desc>
+    <category lang="fr">sport : ski</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/15/9a9f3435b77f44a4bdfded84eb5eb9fa.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241128100500" channel="C111.api.telerama.fr" stop="20241128110000">
+    <title>Des mains vertes pour la nature</title>
+    <sub-title>Engagés pour l'Inn, une rivière alpine revitalisée</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - L'Inn est l'une des rivières alpines au débit le plus élevé. Mais de par la construction de barrages, de digues et la chenalisation tout au long de son cours à travers la Suisse, l'Autriche et l'Allemagne, sa dynamique naturelle s'essouffle, au détriment de nombreuses espèces végétales et animales. La restauration et le démantèlement de digues qui ont permis le retour des castors et des loutres.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/25/5119d85826a8472ebd816a48eb4259d7.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128110000" channel="C111.api.telerama.fr" stop="20241128115500">
+    <title>Itinéraires sauvages</title>
+    <sub-title>En Tanzanie</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - En Tanzanie, quelques routes bitumées serpentent à travers le pays. Mais, les camions, les bus et les 4x4 empruntent surtout des pistes caillouteuses.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/14/c9f652dfe27740639421c07ec8b0cde5.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128115500" channel="C111.api.telerama.fr" stop="20241128123500">
+    <title>Marchés du monde</title>
+    <sub-title>Cambodge, le marché aux insectes</sub-title>
+    <desc lang="fr">Au Cambodge, la modeste ville de Skun est devenue célèbre pour son surprenant marché qui attire les touristes et les amateurs d'insectes comestibles.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/15/cfc84bc9f03f47918583c20c397d246a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128123500" channel="C111.api.telerama.fr" stop="20241128142000">
+    <title>La cuisine des anges</title>
+    <desc lang="fr">La veille de Noël 1885, à Cayenne. Trois forçats évadés du bagne, Joseph, un faussaire, Albert, un meurtrier, et Jules, un perceur de coffres, réussissent à se faire embaucher au "Grand Bazar" tenu par Félix Ducotel. Ils ne tardent pas à découvrir que les affaires marchent mal et que Ducotel redoute l'arrivée du propriétaire, André Trochard. Celui-ci vient, en effet, examiner la comptabilité du magasin. Les résultats n'étant pas à la hauteur de ses ambitions, l'homme risque d'être de fort mauvaise humeur. Contre toute attente, les trois repris de justice viennent en aide à Ducotel...</desc>
+    <credits>
+      <director>Michael Curtiz</director>
+      <actor>Leo G.</actor>
+      <actor>Joan Bennett</actor>
+      <actor>Humphrey Bogart</actor>
+      <actor>Basil Rathbone</actor>
+      <actor>Ustinov Peter</actor>
+      <actor>Aldo Ray</actor>
+      <actor>Talbott Gloria</actor>
+      <actor>John Baer</actor>
+      <actor>Lea Penman</actor>
+      <actor>George Dee</actor>
+      <actor>Jack Del Rio</actor>
+      <actor>John Smith</actor>
+      <writer>Ranald MacDougall</writer>
+    </credits>
+    <date>1955</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/19/5c4cd5cd8edb4ae1adff79f97c10ef06.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128142000" channel="C111.api.telerama.fr" stop="20241128144500">
+    <title>Les maîtres des abeilles</title>
+    <sub-title>Ethiopie, des abeilles au service de la foi</sub-title>
+    <desc lang="fr">En Ethiopie, deuxième plus ancienne nation chrétienne, l'abeille est non seulement un symbole de fertilité et d'abondance, mais également de foi.</desc>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/08/ca98360eb322283e6a6cdd6e488dbc14f70a959a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128144500" channel="C111.api.telerama.fr" stop="20241128153000">
+    <title>Le Danemark sauvage</title>
+    <sub-title>Lacs et rivières</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Les 120 000 lacs et 70 000 kilomètres de voies navigables du Danemark offrent un refuge à d'innombrables espèces, parmi lesquelles les martins-pêcheurs et les castors.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/13/61dbf48117e145eca9542670964e99a9.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128153000" channel="C111.api.telerama.fr" stop="20241128162000">
+    <title>La mer du Nord par les côtes</title>
+    <sub-title>L'Allemagne</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Entre marais sauvages, bancs de sable et prairies marines, le littoral allemand de la mer du Nord abrite des sites naturels encore préservés du tourisme de masse.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/15/90e1a9c6f6694831a15cc00c3066e24f.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128162000" channel="C111.api.telerama.fr" stop="20241128170500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Le billet retour pour le Ghana de Maya Angelou - Mon canot à glace au Canada - En Autriche, le boeuf aux pommes de terre d'Elke - À Paris, une mystérieuse princesse russe.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/15/576b3209202440f5bef6ecf0781f1462.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128170500" channel="C111.api.telerama.fr" stop="20241128175500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. L'exil calédonien de l'incorrigible Louise Michel - Ibiza à la reconquête de l'eau - En Indonésie, les rouleaux de printemps poulet-crevettes de Titin - En Angleterre, un bolide qui en a sur le capot.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/18/9917242ec0b9271fd6f028cd59c0bda6012142e3_1A45C52E13148DE0D36B6753A648FF54.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128175500" channel="C111.api.telerama.fr" stop="20241128183000">
+    <title>Méditerranée : tortues en danger !</title>
+    <desc lang="fr">En Méditerranée, les littoraux en Grèce ou en Turquie qui abritent les lieux de reproduction des tortues marines sont menacés par les activités de l'homme.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/15/b124d521afa54bb48e8bc1d786ed83ae.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128183000" channel="C111.api.telerama.fr" stop="20241128184500">
+    <title>Le dessous des images</title>
+    <sub-title>Image de marque : combats de géants</sub-title>
+    <desc lang="fr">Dans cette campagne, Intermarché critique frontalement les hausses de prix de certains produits. Le conflit entre Intermarché et le géant de l'industrie agro-alimentaire Unilever s'est réglé devant les tribunaux. Jusqu'où peut-on se moquer de l'image d'une marque ?</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128184500" channel="C111.api.telerama.fr" stop="20241128190500">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 28/11/2024</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128190500" channel="C111.api.telerama.fr" stop="20241128195000">
+    <title>28 minutes</title>
+    <desc lang="fr">Le point sur l'actualité, avec un invité témoin et un débat sur le sujet chaud du jour, en compagnie de plusieurs journalistes. Chaque vendredi, un club d'intellectuels revisite l'actualité de la semaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128195000" channel="C111.api.telerama.fr" stop="20241128195500">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241128195500" channel="C111.api.telerama.fr" stop="20241128204000">
+    <title>Evil *2023</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Stockholm, à la fin des années 1950. Pour avoir violemment battu l'un de ses camarades, Erik, 16 ans, a été exclu de son lycée. Alors qu'aucun établissement des environs n'accepte de l'accueillir, Karin, sa mère, parvient à le faire entrer à Stjernsberg, un internat privé. Dès son arrivée, Erik a un coup de coeur pour la blonde Marja, l'une des employées de l'école. Mais alors qu'il est bien décidé à s'intégrer pour poursuivre sa scolarité, il ne tarde pas à découvrir que, comme chez lui, où son beau-père le tyrannise, la loi du plus fort règne dans l'établissement : un conseil d'étudiants, composé d'un groupe d'élèves de quatrième année, dicte sa loi, promulgue les punitions et inflige les sanctions...</desc>
+    <credits>
+      <director>Erik Leijonborg</director>
+      <actor>Gustaf Skarsgard</actor>
+      <actor>Jens Hultén</actor>
+      <actor>Ruth Vega</actor>
+      <actor>Saga Sarkola</actor>
+      <actor>Sofie Thea</actor>
+      <actor>Alexander Gustavsson</actor>
+      <actor>Isac Calmroth</actor>
+      <actor>Christian Sundgren</actor>
+      <actor>Björn Mosten</actor>
+      <actor>Jonathan Falk</actor>
+      <actor>Nonni Ardal Hammarström</actor>
+      <actor>Leon Henzel</actor>
+      <writer>Fredrik T</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/15/1fb339364e7345a5911539c2142bc4c7.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241128204000" channel="C111.api.telerama.fr" stop="20241128212500">
+    <title>Evil *2023</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Alors que Pierre part pour le week-end avec son père, Erik, lui, est consigné à Stjernsberg. Bon nageur, il espère pouvoir faire quelques brasses dans la piscine de l'internat, mais Otto, qui tient sous sa coupe le conseil des étudiants, le lui interdit. Enjoint de réviser à la bibliothèque, il croise Marja, venue potasser des livres de médecine vétérinaire. Encore sous le choc de l'affrontement sanglant au cours duquel Otto a durement frappé le jeune Johan S., Erik est à nouveau convoqué par le conseil des étudiants. Il doit se rendre à 15 heures sur le terrain de sport. Une sanction l'y attend...</desc>
+    <credits>
+      <actor>Anna Azcárate</actor>
+      <actor>Gustaf Skarsgard</actor>
+      <actor>Jens Hultén</actor>
+      <actor>Ruth Vega</actor>
+      <actor>Saga Sarkola</actor>
+      <actor>Sofie Thea</actor>
+      <actor>Alexander Gustavsson</actor>
+      <actor>Isac Calmroth</actor>
+      <actor>Christian Sundgren</actor>
+      <actor>Björn Mosten</actor>
+      <actor>Nonni Ardal Hammarström</actor>
+      <actor>Leon Henzel</actor>
+      <writer>Fredrik T</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/15/8982a251efaa4adf8fdddc32fc26566e.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241128212500" channel="C111.api.telerama.fr" stop="20241128221500">
+    <title>Evil *2023</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Erik est assailli par les souvenirs de son passé marqué par la violence. Employé dans un restaurant chic, Ake, son beau-père, le bat presque quotidiennement. Contrainte par ce dernier à quitter le cabinet d'avocat où elle travaillait, sa mère, qui donne des cours de piano à domicile, est impuissante à le protéger. Grandissant dans un climat de violence permanent, Erik prend la tête d'une bande de voyous qui multiplie les vols. Aujourd'hui, alors qu'il encaisse stoïquement la correction que lui inflige Otto, Erik, est subitement submergé par la colère et ne retient plus ses coups. Le déferlement de violence dont il fait preuve choque Marja, qui décide de ne plus le voir...</desc>
+    <credits>
+      <actor>Norrthon Simon</actor>
+      <actor>Gustaf Skarsgard</actor>
+      <actor>Ruth Vega</actor>
+      <actor>Sofie Thea</actor>
+      <actor>Ralf Beck</actor>
+      <actor>Alexander Gustavsson</actor>
+      <actor>Isac Calmroth</actor>
+      <actor>Christian Sundgren</actor>
+      <actor>Björn Mosten</actor>
+      <actor>Ludvig Deltin</actor>
+      <actor>Nonni Ardal Hammarström</actor>
+      <actor>Leon Henzel</actor>
+      <writer>Fredrik T</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/15/2e14f6d5940d416199d0b45b1060b119.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241128221500" channel="C111.api.telerama.fr" stop="20241129003500">
+    <title>Sans filtre</title>
+    <desc lang="fr">Partis pour une croisière de luxe sur un yacht, en compagnie des plus grandes fortunes mondiales, Carl et Yaya espèrent passer un séjour inoubliable. Entre bronzage et repas très copieux, ils ont tout un équipage aux petits soins, jusqu'à ce qu'une tempête rebatte les cartes. Alors que les richissimes clients avaient l'habitude d'être traités comme des rois, la catastrophe qui se profile semble tout transformer. Tandis que les esprits s'échauffent, le capitaine organise un véritable festin pour calmer ses hôtes. Mais le pire se produit, mettant en danger la vie des passagers et celle du personnel... - Critique : :u4: POUR
+
+Une deuxième Palme d’or, c’est la juste mesure pour saluer l’appétit de cinéma pantagruélique de Ruben Östlund. Un Suédois qui a hérité de Woody Allen comme de Michael Haneke. Plein d’humour dans son observation des mœurs modernes, sa mise en scène tout en maîtrise et rigueur en fait parallèlement un analyste sévère de nos comportements. Mais son refus de l’intellectualisme l’amène aussi à utiliser le langage des images spectaculaires à l’américaine, comme celle de l’avalanche qui annonçait la déconfiture de la figure paternelle dans Snow Therapy (2014). L’originalité de cette démarche faisait la richesse de The Square (2017), son premier couronnement cannois, qui manquait cependant de cohésion. Cette fois, le cinévore a vraiment trouvé la formule. Et on a envie d’applaudir.
+
+Sans filtre est un film d’une étonnante envergure. Il raconte le monde d’aujourd’hui en faisant le portrait d’un couple, son inspiration est épique sans jamais quitter tout à fait l’intimisme. Carl et Yaya, mannequins et influenceurs, dînent dans un restaurant chic et cher. Elle devait, pour une fois, l’inviter et c’est lui qui se retrouve, comme toujours, à devoir payer la note. S’il s’en offusque, c’est parce que le jeune homme a l’espoir d’avoir des relations égalitaires avec sa compagne. L’argent ne change-t-il pas leurs rapports ? L’argent ne les assigne-t-il pas à des places rigides ?
+
+Avec ces questionnements pour bagage, le réalisateur entraîne ses influenceurs sur un yacht, où ils vont participer à une croisière de grand luxe qui ne leur a rien coûté, au milieu d’oligarques russes et autres nantis aux moyens sans limite. Dans un microcosme régi par la satisfaction du client à tout prix, l’argent définit tout, les relations et la place de chacun. Croyant échapper à cette distribution des rôles, une riche plaisancière ordonne que le personnel puisse se baigner, ne faisant que confirmer sa toute-puissance. Il faudra une grosse tempête et une beuverie d’anthologie pour faire bouger les lignes. Sur une île déserte où un paquet de bretzels devient un trésor, les naufragés comprendront comment l’absence d’argent change la donne…
+
+Très réfléchie et très joueuse de bout en bout, la fable a de formidables effets de révélateur. Carl avait peur que sa relation avec Yaya manque de liberté ? Il ne découvrira qu’asservissement partout, rapports de pouvoir, de classes. Le réalisateur fait revenir ses personnages au temps des cavernes pour mieux nous montrer qu’ils ne sont jamais sortis de l’âge de pierre. Même le langage leur manque, remplacé par des slogans, des noms de marque, des citations politiques que s’envoient à la figure le capitaine du yacht, marxiste à la dérive, et son compagnon de cuite, homme d’affaires répétant sans fin « Je vends de la merde ». Seule une femme victime d’un AVC et ne pouvant dire que « Dans les nuages » nous rappelle le mystère perdu des mots.
+
+Le tour de force de Ruben Östlund est d’avoir su rendre attachants tous les personnages de Sans filtre, défendus, il est vrai, par des comédiens idéalement choisis, jouant la folie anar (Woody Harrelson, le capitaine), l’innocence (Harris Dickinson, Carl), la fragilité et la mélancolie (Charlbi Dean, Yaya, tristement disparue en août dernier). Une tendresse traverse ce panorama cinglant sur une société où chacun est condamné à sa prison, qu’elle soit une cabine de luxe ou une place dans les soutes du yacht. Pessimiste, Ruben Östlund ose aussi s’amuser avec un humour potache du chaos général. Sur son Titanic, les gags scatologiques sont permis. On rit sacrément et cela aide à méditer sur la situation. La liberté que ses personnages cherchent, le Suédois se la donne en tant que cinéaste. Et nous en fait cadeau. — Frédéric Strauss
+
+
+
+:u1: CONTRE
+
+Il faut reconnaître à Ruben Östlund au moins un talent : celui d’annihiler l’esprit critique des jurés du festival de Cannes. La première Palme d’or attribuée au réalisateur suédois pour le médiocre The Square, en 2017, était une mauvaise plaisanterie. Sa deuxième, reçue au printemps dernier en récompense de l’épouvantable Sans filtre (ce qui fait du réalisateur suédois « l’égal » de Francis Ford Coppola, Ken Loach ou des Dardenne, excusez du peu !), a tout de la farce sinistre.
+
+Östlünd voudrait créer le malaise en étirant toutes ses scènes au-delà du supportable. Sa misanthropie crasse, sa détestation narquoise de tous ses personnages ne suscitent que l’ennui. Et ses provocations se révèlent, plus que jamais, des pétards mouillés. Les scènes de vomi ad nauseam, les Monty Python les avait déjà inventées, en plus drôle et plus troublant à la fois, dans Le Sens de la vie, quarante ans plus tôt. Et quand ce pseudo-rebelle se pique de marxisme, sa vision de la lutte des classes est plus cynique que révolutionnaire. Dans la dernière (et interminable) partie de Sans filtre, les ultrariches rescapés d’un naufrage se retrouvent à la merci d’une femme de ménage philippine qui, quelques heures plus tôt, nettoyait leurs toilettes à bord du yacht. Message reçu cinq sur cinq : tout exploité est un exploiteur en puissance. À quoi bon, donc, renverser l’ordre établi si la dictature du prolétariat est aussi nocive que celle des nantis ? Ruben Östlund n’y aurait, d’ailleurs, aucun intérêt : il profite trop bien du système qu’il prétend dénoncer. — Samuel Douhaire</desc>
+    <credits>
+      <actor>Iris Berben</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Amanda Walker</actor>
+      <actor>Oliver Ford</actor>
+      <actor>Henrik Dorsin</actor>
+      <actor>Harris Dickinson</actor>
+      <actor>Vicki Berlin</actor>
+      <actor>Charlbi Dean</actor>
+      <actor>Dolly De Leon</actor>
+      <writer>Östlund Ruben</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : comédie dramatique</category>
+    <length units="minutes">140</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/37010252_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

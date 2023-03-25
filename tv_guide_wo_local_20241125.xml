@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241124235000 +0100" channel="C111.api.telerama.fr" stop="20241125004500 +0100">
+    <title>Une saga de l'Europe culturelle : Au coeur du XIXe siècle</title>
+    <desc lang="fr">À l'automne 1843, Pauline Viardot, mezzo-soprano de 22 ans, triomphe à Saint-Pétersbourg dans "Le Barbier de Séville", de Rossini. Poussée loin de Paris par la jalousie de deux rivales, cette jeune musicienne d'origine espagnole, petite sœur de la défunte Malibran, qui fut avant elle une diva célébrée sur toutes les scènes d'Europe, voyage avec son époux, Louis, traducteur, critique et collectionneur d'art. Dans la capitale ardemment tournée vers l'Europe de cette Russie où le servage est toujours en vigueur, elle bouleverse un jeune poète idéaliste épris de littérature allemande, Ivan Tourgueniev. Sillonnant l'Europe au gré des rencontres, des engagements de Pauline Viardot et des événements de cette seconde moitié du XIXe siècle, ce triangle amoureux ne sera séparé que par la mort.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/11/13e8e78df8f24a0f8bdb71d5f8ed93e2.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125004500 +0100" channel="C111.api.telerama.fr" stop="20241125033700 +0100">
+    <title>Giacomo Puccini : Il trittico</title>
+    <desc lang="fr">Composé de la tragédie brutale "Il tabarro", du lyrique et sensible "Suor Angelica" et de la comédie "Gianni Schicchi", "Il trittico" de Giacomo Puccini, un cycle de trois opéras en un acte, rassemble trois registres, trois lieux et trois "couleurs", chaque partie prenant place dans des milieux sociaux différents. Cette œuvre unique, jouée dans son intégralité au Théâtre de la Monnaie à Bruxelles et mise en scène par Tobias Kratzer, conserve l'ordre original des pièces tout en tissant entre elles d'astucieux liens.</desc>
+    <category lang="fr">opéra</category>
+    <length units="minutes">172</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/05/30/75f92da69fa576e0c707abd6565d18f9a772e009.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125033700 +0100" channel="C111.api.telerama.fr" stop="20241125051000 +0100">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">93</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125051000 +0100" channel="C111.api.telerama.fr" stop="20241125054000 +0100">
+    <title>E-commerce : des solutions plus durables</title>
+    <desc lang="fr">Faire du e-commerce est devenu un geste banal pour des millions de consommateurs mais peut-on réduire l'impact environnemental dans cette pratique ?</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/09/2c8de2328f0048afbba9c6c1ac10d7bd.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125054000 +0100" channel="C111.api.telerama.fr" stop="20241125055500 +0100">
+    <title>Le dessous des images</title>
+    <sub-title>Garçon ou fille ? Un rituel est né</sub-title>
+    <desc lang="fr">Le "gender reveal" est devenu un phénomène sur les réseaux sociaux : pendant cette cérémonie, les parents découvrent le sexe biologique d'un enfant à venir.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/05/09/d54c807b4cba7196069916cc85d517260e652d51_D21719E6A3993C6E0329CB530A2B110F.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125055500 +0100" channel="C111.api.telerama.fr" stop="20241125065000 +0100">
+    <title>Voyage en eaux calmes</title>
+    <sub-title>Le lac Balaton en Hongrie</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Plus grand lac d'Europe centrale et fierté de la Hongrie, le Balaton devient chaque été un paradis entouré de roselières. Avec ses vignes, ce paysage romantique abrite une riche biodiversité, notamment des serpents d'eau rares et des centaines d'espèces d'oiseaux. Mais comment concilier cet extraordinaire écosystème avec une industrie touristique florissante, qui accueille à la haute saison des milliers de baigneurs ?</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/4d49d63547a34d81a2222b3563f3b746.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125065000 +0100" channel="C111.api.telerama.fr" stop="20241125065500 +0100">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125065500 +0100" channel="C111.api.telerama.fr" stop="20241125075000 +0100">
+    <title>Hongkong, la magie des néons</title>
+    <desc lang="fr">Alors que les LED tendent à supplanter les néons fluorescents, une poignée d'artisans et d'aficionados se démènent pour sauver cet emblème de Hongkong.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/13dd2918-c0e0-4563-a685-3d4fc7f863b7.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125075000 +0100" channel="C111.api.telerama.fr" stop="20241125083500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Volare, l'hymne solaire venu des Pouilles - Montserrat, la Pompéi des Caraïbes - En Grèce, un match de football sans fin.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/15/3cf89defd71dd11e8a205e55b2084432289df410_BF243B6694C35C555BBB92F92E10C0F1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125083500 +0100" channel="C111.api.telerama.fr" stop="20241125092500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Perdue dans l'arrière-pays niçois, la rivière de l'Espignole a été mise en bulles par le dessinateur Edmond Baudoin : fougueuse et inépuisable. Cet auteur et dessinateur, né en 1942 à Nice, est adulé dans le monde de la BD. Au début des années 80, il lance le roman graphique à la première personne. Surnommé "l</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/09/5175dd1f5ecf4186965045ea23cf9c7c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125092500 +0100" channel="C111.api.telerama.fr" stop="20241125105500 +0100">
+    <title>Egypte : Enquête sur la nécropole des taureaux sacrés</title>
+    <desc lang="fr">Sur le mythique site de Saqqarah, les taureaux Apis furent inhumés, pendant plus d'un millénaire, dans l'immense nécropole souterraine du sérapéum. Découvert en 1850 par l'égyptologue français Auguste Mariette, ce lieu abrite un trésor dont une partie est conservée au Louvre. L'effondrement du plafond de l'une des galeries avait cependant empêché l'archéologue de s'aventurer dans l'intégralité de la nécropole. Plus de 170 ans plus tard, les égyptologues du musée poursuivent l'entreprise de leur fameux prédécesseur. Menant l'enquête sur le culte du taureau Apis et les rituels mystérieux qui l'entouraient, l'équipe cherche surtout un accès aux parties inexplorées, lesquelles présentent au moins huit chambres funéraires, avec l'espoir de trouver des tombes intactes.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/28/46e6b94c527d6b402c578deab6b9c6438e98cc59_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241125105500 +0100" channel="C111.api.telerama.fr" stop="20241125115000 +0100">
+    <title>Lucrèce Borgia : Intrigues, crimes et politique à la cour du pape</title>
+    <desc lang="fr">Fille naturelle du cardinal Rodrigo Borgia, futur pape sous le nom d'Alexandre VI et devenu célèbre pour ses mœurs dissolues, Lucrèce Borgia (1480-1519) a bénéficié, comme ses trois frères, notamment l'ambitieux César Borgia, d'une éducation privilégiée. Très tôt, on lui enseigne le catalan, l'espagnol, le français, le latin et le grec, mais aussi le chant et la danse. On la familiarise aussi avec la poésie, afin que sa conversation soit gracieuse et divertissante. Considérée comme un "capital matrimonial" apte à servir les intérêts de sa famille, elle est très tôt préparée à remplir le rôle d'une bonne épouse au gré des alliances que son père souhaitera sceller. En 1493, ce dernier la marie pour des raisons diplomatiques à Giovanni Sforza afin d'opérer un rapprochement entre le Saint-Siège et le duché de Milan.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/03/150660fd85504c28929aca4c55ca92bd.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241125115000 +0100" channel="C111.api.telerama.fr" stop="20241125121000 +0100">
+    <title>Faire l'histoire</title>
+    <sub-title>La redingote de Napoléon : L'empire d'une silhouette</sub-title>
+    <desc lang="fr">On reconnaît Napoléon Bonaparte grâce à son bicorne noir et sa redingote grise. L'historien Patrick Boucheron raconte la tenue vestimentaire iconique de l'Empereur.</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/12/3ea2db8588af43f9a10bbd4dff298542.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125121000 +0100" channel="C111.api.telerama.fr" stop="20241125133500 +0100">
+    <title>Itinéraires sauvages</title>
+    <sub-title>Au Rajasthan</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Au volant de son camion multicolore, Babu Singh livre des marchandises à travers tout le Rajasthan, des monts Aravalli à l'ancienne cité caravanière de Jaisalmer.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/11/5adb4e4ee43c4816b3fb995c1ea488b4.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125133500 +0100" channel="C111.api.telerama.fr" stop="20241125154500 +0100">
+    <title>Meurtres à Sandhamn</title>
+    <sub-title>Angelica</sub-title>
+    <desc lang="fr">Saison:8 - Episode:1 - Le corps d'Angelica n'ayant jamais été retrouvé, son mari, accusé de sa mort, est relaxé faute de preuves. Mais l'arrestation sur l'île de Sandhamn d'un cambrioleur en série relance l'affaire. Car dans l'antre où ce collectionneur esthète entrepose ses larcins, Nora Linde découvre des photos d'Angelica qui compromettent l'un des enquêteurs avec lequel elle travaille. La procureur est aussi soumise à des tensions émotionnelles quand elle apprend que son ex-mari va être père...</desc>
+    <credits>
+      <director>Mattias Ohlsson</director>
+      <actor>Johan Widerberg</actor>
+      <actor>Jonas Malmsjö</actor>
+      <actor>Carlsson Ing-Marie</actor>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Nicolai Cleve</actor>
+      <actor>Hammarsten Gustaf</actor>
+      <actor>Lundqvist Anton</actor>
+      <actor>Malin Crépin</actor>
+      <actor>Shirin Golchin</actor>
+      <actor>Kassel Ulving</actor>
+      <actor>Louise Ryme</actor>
+      <actor>Sven Ahlström</actor>
+      <writer>Johan Widerberg</writer>
+      <writer>Sara Heldt</writer>
+      <writer>Viveca Sten</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/18/5a90cd7937051513796a9f417fc77b0c6589a4a5_48794516A485AFDAD01AF4FCDA1B8BA0.jpg" />
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125154500 +0100" channel="C111.api.telerama.fr" stop="20241125163500 +0100">
+    <title>Le Danemark sauvage</title>
+    <sub-title>Forêts</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Découverte des forêts danoises, largement défrichées au fil des siècles. Dans les zones ont été reboisées, la végétation ne s'y épanouit pas autant qu'à l'état sauvage.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/12/03ec674305f048178d4abca3c38c1950.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125163500 +0100" channel="C111.api.telerama.fr" stop="20241125172000 +0100">
+    <title>La mer du Nord par les côtes</title>
+    <sub-title>L'Ecosse et les Orcades</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Bordée par la mer du Nord, la côte orientale de l'Ecosse se dessine entre falaises déchiquetées, plages de sable blanc et villes portuaires.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/12/4ba08a39f772460cafdfe0f5d3547f24.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125172000 +0100" channel="C111.api.telerama.fr" stop="20241125180500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Avec Jack Delano, Porto Rico reprend ses couleurs. - En Provence, les pieds-noirs prennent racine. - En Nouvelle-Zélande, le crumble. - En Ouzbékistan, l'émir amoureux des étoiles.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/12/9e398cee2c5a422d9788401a0ebfdfdf.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125180500 +0100" channel="C111.api.telerama.fr" stop="20241125185500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Louis Malle dans le Far West mexicain - Desert Hot Springs, utopie aquatique en Californie - En Suisse, la valse des glaces.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/16/05bc493f905c178dcd70af5a1ff629f4bd9e8486_3706D938C883BA3A2872DCF6E0FDFDBC.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125185500 +0100" channel="C111.api.telerama.fr" stop="20241125193000 +0100">
+    <title>Espagne : après les inondations, la colère !</title>
+    <desc lang="fr">La pire catastrophe climatique de l'histoire récente de l'Espagne s'est produite le 29 octobre 2024. Ce jour-là, des pluies diluviennes s'abattent sur la région de Valence, provoquant la mort de plus de 220 personnes. Les jours suivants, le désespoir fait place à la colère contre le gouvernement. Les autorités ont en effet tardé à donner l'alerte.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/19/49cac07800014283be8595c4e33fe024.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125193000 +0100" channel="C111.api.telerama.fr" stop="20241125194500 +0100">
+    <title>Le dessous des images</title>
+    <sub-title>Netanyahou : la mort au téléphone</sub-title>
+    <desc lang="fr">Le 27 septembre 2024, Benyamin Netanyahou déclenche l'assassinat de Hassan Nasrallah, chef du Hezbollah depuis plus de trente ans. En une image, il réaffirme son statut de chef de guerre, capable de faire basculer, d'un simple coup de téléphone, le destin de tout le Moyen-Orient.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125194500 +0100" channel="C111.api.telerama.fr" stop="20241125200500 +0100">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 25/11/2024</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125200500 +0100" channel="C111.api.telerama.fr" stop="20241125205000 +0100">
+    <title>28 minutes</title>
+    <desc lang="fr">Le rendez-vous quotidien consacré à l'actualité et au débat.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125205000 +0100" channel="C111.api.telerama.fr" stop="20241125205500 +0100">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241125205500 +0100" channel="C111.api.telerama.fr" stop="20241125222000 +0100">
+    <title>Jeux interdits</title>
+    <desc lang="fr">En juin 1940, Paulette, une fillette âgée de cinq ans et ses parents sont jetés, comme des centaines de familles, sur les routes de l'exode. Un bombardement tue net le couple, laissant la petite fille seule au bord d'une route inconnue. Elle est bientôt recueillie par les Dollé, une famille de paysans. Paulette refuse de se séparer du cadavre de son chien, qu'elle veut enterrer. Le fils des Dollé, Michel, âgé de 11 ans, aménage alors un cimetière d'animaux, où les deux enfants ensevelissent solennellement d'autres bêtes. Une complicité profonde s'installe entre Paulette et Michel... - Critique : À 5 ans, Paulette trottine en famille sur les routes du Cantal pendant l’exode de 1940. Une pluie d’obus tue ses parents et son chien. Désormais seule, elle rencontre Michel, un peu plus âgé qu’elle, qui tanne sa famille pour qu’elle adopte l’orpheline.
+
+À force d’entendre les débutants à la guitare égratigner sa musique, on avait fini par oublier la perfection du film. Célèbre pour avoir tourné, dès 1945, le premier film événement sur la Résistance (La Bataille du rail), René Clément reprend un thème proche avec la même rigueur documentaire, assortie d’un humanisme délicat et tragiquement féerique. Il épin­gle sans pitié la hargne clanique de familles paysannes qui se jalousent et défendent leurs petits intérêts.
+
+Bien avant Charles Laughton et sa légendaire Nuit du chasseur, il s’immisce aussi dans l’imaginaire morbide et franc de l’enfance, avec son lot d’images oniriques lourdes en symboles : un hibou au regard scru­tateur, un poussin à l’agonie… Comme pour remplacer son chien, mort à sa place, Paulette erre sans autre arme que son instinct trop pur, petit animal perdu à qui la Croix-Rouge prend finalement soin de mettre un collier. Brigitte Fossey est bouleversante.</desc>
+    <credits>
+      <actor>Brigitte Fossey</actor>
+      <actor>Jacques Marin</actor>
+      <actor>Georges Poujouly</actor>
+      <actor>Madeleine Barbulée</actor>
+      <actor>Laurence Badie</actor>
+      <actor>Suzanne Courtal</actor>
+      <actor>Lucien Hubert</actor>
+      <actor>Denise Péronne</actor>
+      <actor>Pierre Merovée</actor>
+      <actor>Amédée</actor>
+      <actor>Fernande Roy</actor>
+      <actor>Violette Monnier</actor>
+      <writer>René Clément</writer>
+      <writer>Pierre Bost</writer>
+      <writer>Jean Aurenche</writer>
+    </credits>
+    <date>1952</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/18265378_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241125222000 +0100" channel="C111.api.telerama.fr" stop="20241126001500 +0100">
+    <title>Nell</title>
+    <desc lang="fr">Violet Kelty vivait en ermite dans une cabane perdue au fin fond des Blue Mountains. Elle vient de mourir, et le docteur Jerome Lovell est chargé de constater son décès. Il en repart perplexe. Dans la cabane, il a trouvé une jeune femme, manifestement en état de choc, au langage si étrange qu'il est impossible de la comprendre. Déconcerté, Lovell consulte une psychologue, le docteur Paula Olsen. La justice, toutefois, ne peut laisser cette passionnante affaire sans y mettre son nez. Doit-on intégrer de force la rescapée à la civilisation ? Jerome et Paula sont chargés de l'observer pendant trois mois, afin d'établir un tableau psychologique complet... - Critique : À la mort de sa mère, Nell est désemparée. Elle doit quitter sa cabane, perdue au milieu des montagnes. Son langage est incompréhensible. Nell est une « enfant sauvage »... vue par Hollywood. Pas méchante. Sale, mais pas trop. Et très jolie. Nell, c‘est Jodie Foster. Tout est construit autour d‘elle. Car ce film qu‘elle a désiré, produit et interprété est un film de star. Pour elle, les scénaristes ne résistent pas au morceau de bravoure final : devant le tribunal qui jugera de son sort, Nell tient des propos très élaborés ! Nell devient le porte-parole des auteurs. On est loin de la rigueur de Truffaut, qui avait aussi filmé un Enfant sauvage. Ici, tout est fonctionnel.
+
+Et pourtant... Pourtant, grâce au talent de Jodie Foster, on oublie l‘actrice. Et l‘on ne voit plus que Nell, avec ses peurs et son désir de communiquer avec les autres. Les autres, ce sont surtout deux médecins aux conceptions opposées : l‘un (Liam Neeson) considère Nell comme un être blessé à secourir, l‘autre (Natasha Richardson) comme un cas intéressant à observer.
+
+À travers ces trois personnages qui apprennent à se connaître, Michael Apted a construit un film classique, rassurant, mais qui laisse aux émotions la plus grande place. S‘il utilise quelques flash-back démonstratifs, c‘est toujours en les filmant du point de vue de Nell, avec sa vision naïve et symbolique. Avec elle, nous percevons combien les autres, ceux du « monde civilisé », peuvent être brutaux. Mais, avant tout, Nell est un film foncièrement optimiste. Il insiste sur la beauté intérieure des êtres et sur la beauté d‘une Nature avec qui les hommes doivent vivre en harmonie. Le plus important, c‘est qu‘il arrive à faire passer, à sa façon, un message de tolérance. Avec une certaine délicatesse et beaucoup de sensibilité.</desc>
+    <credits>
+      <director>Michael Apted</director>
+      <actor>Jodie Foster</actor>
+      <actor>Nick Searcy</actor>
+      <actor>Richard Libertini</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Natasha Richardson</actor>
+      <actor>Joe Inscoe</actor>
+      <actor>Jeremy Davies</actor>
+      <actor>O'Neal Compton</actor>
+      <actor>Robin Mullins</actor>
+      <actor>Sean Bridgers</actor>
+      <actor>Stephanie Dawn</actor>
+      <actor>Heather M. Bomba</actor>
+      <writer>Mark Handley</writer>
+      <writer>Bill Nicholson</writer>
+    </credits>
+    <date>1994</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/12/929a645786084def962b18c15803a065.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

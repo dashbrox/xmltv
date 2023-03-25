@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241129232500" channel="C111.api.telerama.fr" stop="20241130002500">
+    <title>Gossip - Sounds Like Art - Nouvelle galerie nationale, Berlin</title>
+    <desc lang="fr">La musique des Riot grrrls, un mouvement révolutionnaire, féministe et musical, entre en résonance avec des oeuvres féministes signées Lucy Raven, Yoko Ono ou Gerhard Richter.</desc>
+    <category lang="fr">musique : pop %26 rock</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/16/10e625d50adb41d58fd91c2f0062758e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130002500" channel="C111.api.telerama.fr" stop="20241130015000">
+    <title>Le nomade sur les pas de Bruce Chatwin</title>
+    <desc lang="fr">Avant de mourir du sida, en 1989, le romancier britannique Bruce Chatwin a légué son sac à dos en cuir à Werner Herzog. Trente ans plus tard, le réalisateur l'endosse à son tour pour partir sur les traces de son ami à travers un voyage cinématographique librement inspiré par leur passion commune pour le nomadisme, l'avant-gardisme, le goût des extrêmes et les grands questionnements métaphysiques. De l'Amérique du Sud, où l'écrivain-voyageur a écrit "En Patagonie", aux terres aborigènes australiennes où, travaillant sur "Le Chant des pistes", ils se rencontrèrent, en passant par le verdoyant comté du Wiltshire, renommé pour ses sites néolithiques, Werner Herzog croise en huit chapitres leurs trajectoires d'"âmes sœurs".</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/02805298ad3d0720302e63da9bdac6e5ed82aec9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241130015000" channel="C111.api.telerama.fr" stop="20241130031100">
+    <title>Georg Friedrich Haendel : Israël en Egypte</title>
+    <desc lang="fr">À la tête du Balthasar Neumann Ensemble, Thomas Hengelbrock explore toutes les facettes de l'oratorio "Israël en Egypte" de Georg Friedrich Haendel.</desc>
+    <category lang="fr">musique : classique</category>
+    <length units="minutes">81</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/04/6a82b1c8118872733e2d4e5aefec08bb6f59aa9a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130031100" channel="C111.api.telerama.fr" stop="20241130041500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">64</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130041500" channel="C111.api.telerama.fr" stop="20241130050500">
+    <title>Fantômas démasqué</title>
+    <desc lang="fr">Entre 1911 et 1913, en France, un phénomène révolutionne le monde de l'édition : écrites à quatre mains par deux jeunes gens venus du journalisme, Marcel Allain et Pierre Souvestre, au rythme d'un nouvel épisode par mois, les aventures de Fantômas, vendues au prix modique de 65 centimes l'unité, s'arrachent à plusieurs dizaines de milliers d'exemplaires, au fil de 31 romans à faire peur. La série de cinq films muets que Louis Feuillade réalise entre 1913 et 1914 décuple le succès de cette première collection populaire. En quittant les studios pour capter en partie sur le vif, dans les rues de Paris, le combat inégal du policier Juve et du journaliste Fandor contre l'insaisissable et cruel meurtrier, ces chefs-d'œuvre révolutionnent eux aussi la jeune industrie du cinéma.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/03/3e8d44ced3648f23ecca26b52c34e5ebce5d48e6.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241130050500" channel="C111.api.telerama.fr" stop="20241130060000">
+    <title>40 ans de sida : Silence = Mort</title>
+    <desc lang="fr">Quarante ans d'histoire du sida, racontés par les personnes qui ont été et sont encore aux premières lignes d'une lutte sans relâche : ceux qui avaient 20 ans dans les années 1980 et ont vu leur communauté décimée, les chercheurs et les militants engagés, mais aussi des personnes diagnostiquées plus récemment, qui évoquent la difficulté et la honte de vivre avec cette maladie chronique encore taboue. Tous soulignent le pouvoir crucial de la parole, qui permet d'informer et de déstigmatiser pour offrir à chacun le contrôle de sa propre vie.</desc>
+    <category lang="fr">documentaire santé</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/16/11104712.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130060000" channel="C111.api.telerama.fr" stop="20241130063500">
+    <title>Mongolie, l'homme qui aimait les chevaux</title>
+    <desc lang="fr">Les chevaux occupent une place centrale dans la culture mongole. Ils sont utilisés pour le travail, mais aussi pour les courses traditionnelles et la production de lait de jument.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/06/82dd0bd6adf34d6e9b34c44d4388ac27.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130063500" channel="C111.api.telerama.fr" stop="20241130073000">
+    <title>Bangkok, les chasseurs de serpents</title>
+    <desc lang="fr">Chaque année, les services de secours de la ville de Bangkok reçoivent plus de 35 000 appels pour un genre d'intervention insolite : la capture de serpents entrés dans des maisons.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/18/3a521ae4eb500621adf3256a95463f1837b24971.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130073000" channel="C111.api.telerama.fr" stop="20241130082500">
+    <title>Pérou, une laine qui vaut de l'or</title>
+    <desc lang="fr">Dans le village péruvien de Lucanas, les paysans ont pris en main la commercialisation de la laine de vigogne, d'une qualité et d'une valeur exceptionnelles.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/18/3a521ae4eb500621adf3256a95463f1837b24971.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130082500" channel="C111.api.telerama.fr" stop="20241130090500">
+    <title>Invitation au voyage</title>
+    <sub-title>Arménie</sub-title>
+    <desc lang="fr">Trois reportages partent à la découverte de l'Arménie : en Arménie, Vassili Grossman reprend goût à la vie - Arménie, une identité chrétienne - En Arménie, un trésor sauvé de justesse.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/10/28024089f113454ab1064301dc1fcc97.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130090500" channel="C111.api.telerama.fr" stop="20241130093000">
+    <title>Cuisines des terroirs</title>
+    <sub-title>La Sicile occidentale</sub-title>
+    <desc lang="fr">En 2016, Andrea abandonne sa carrière de procureur pour reprendre l'oliveraie en friche de sa grand-mère, dans la province de Trapani en Sicile.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/11/0975667dceb049c0becfc933ee522bb2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130093000" channel="C111.api.telerama.fr" stop="20241130101500">
+    <title>Canaries, les îles-volcans</title>
+    <sub-title>Grande Canarie et Fuerteventura</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - La Grande Canarie abrite quelque quatorze zones climatiques différentes, tandis que Fuerteventura compte parmi les régions les plus sèches d'Europe.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/38031574_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130101500" channel="C111.api.telerama.fr" stop="20241130110000">
+    <title>Canaries, les îles-volcans</title>
+    <sub-title>Tenerife</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - L'île de Tenerife, célèbre pour son cône volcanique de Teide qui culmine à plus de 3700 mètres, est marquée par l'empreinte du feu et de l'activité volcanique.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/38031574_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130110000" channel="C111.api.telerama.fr" stop="20241130114500">
+    <title>Canaries, les îles-volcans</title>
+    <sub-title>Lanzarote</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Au milieu de l'Atlantique, l'archipel espagnol des Canaries, sculpté par des millions d'années d'activité volcanique, présente un vaste éventail de paysages.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/38031574_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130114500" channel="C111.api.telerama.fr" stop="20241130123000">
+    <title>Canaries, les îles-volcans</title>
+    <sub-title>La Gomera et El Hierro</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Autrefois vides, les deux plus petites îles des Canaries, La Gomera et El Hierro, ont fini par être colonisées par des animaux et des plantes arrivés de la mer.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/38031574_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130123000" channel="C111.api.telerama.fr" stop="20241130140500">
+    <title>Egypte : Enquête sur la nécropole des taureaux sacrés</title>
+    <desc lang="fr">Sur le mythique site de Saqqarah, les taureaux Apis furent inhumés, pendant plus d'un millénaire, dans l'immense nécropole souterraine du sérapéum. Découvert en 1850 par l'égyptologue français Auguste Mariette, ce lieu abrite un trésor dont une partie est conservée au Louvre. L'effondrement du plafond de l'une des galeries avait cependant empêché l'archéologue de s'aventurer dans l'intégralité de la nécropole. Plus de 170 ans plus tard, les égyptologues du musée poursuivent l'entreprise de leur fameux prédécesseur. Menant l'enquête sur le culte du taureau Apis et les rituels mystérieux qui l'entouraient, l'équipe cherche surtout un accès aux parties inexplorées, lesquelles présentent au moins huit chambres funéraires, avec l'espoir de trouver des tombes intactes.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/28/46e6b94c527d6b402c578deab6b9c6438e98cc59_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241130140500" channel="C111.api.telerama.fr" stop="20241130145000">
+    <title>Canaries, les îles-volcans</title>
+    <sub-title>La Palma</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Après l'éruption du Cumbre Vieja en 2021, qui a endommagé des maisons et des terres agricoles, la biodiversité, elle, s'est adaptée et n'a pas disparu.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/27/b0d9dd8270efebca0656e6d634a458ee12ed1b7c_1A45C52E13148DE0D36B6753A648FF54.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130145000" channel="C111.api.telerama.fr" stop="20241130153500">
+    <title>Espagne : un paradis sur la route des oiseaux</title>
+    <desc lang="fr">Etape d'oiseaux migrateurs et refuge pour d'autres espèces, l'Espagne constitue un paradis ornithologique. Découverte, entre ciel et terre, d'une incomparable biodiversité.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/05/305ca53ff59048309336ed50c1a775b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130153500" channel="C111.api.telerama.fr" stop="20241130161500">
+    <title>Invitation au voyage</title>
+    <sub-title>Nouvelle-Zélande</sub-title>
+    <desc lang="fr">Découverte de la Nouvelle-Zélande à travers trois reportages : l'écrivaine Janet Frame ; la baleine, vénérée par les Maoris ; à Auckland, la tempérance a de la bouteille.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/17/3b48f8bf16294754a9b9a0bf1a20917b.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130161500" channel="C111.api.telerama.fr" stop="20241130165000">
+    <title>Uruguay, danser au rythme du carnaval</title>
+    <desc lang="fr">Le carnaval d'été de l'Uruguay, qui dure 45 jours, ravit tout le pays. Le festival se caractérise par des défilés colorés et des représentations sur scène dans la ville.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/17/2f3e717bf7464b899fb66154c9dc3b56.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130165000" channel="C111.api.telerama.fr" stop="20241130173500">
+    <title>Le Grand Canyon : terre d'aventures</title>
+    <desc lang="fr">Sculpté par les eaux du fleuve Colorado, le Grand Canyon serpente sur 450 kilomètres. Au fond de ses gorges, des cours d'eau scintillant font le bonheur des pêcheurs de truites.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/08/01/09cbbbc64ff932a738ca47edee4e9b5e58db9e2b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130173500" channel="C111.api.telerama.fr" stop="20241130183000">
+    <title>Arte reportage</title>
+    <desc lang="fr">Des grands reportages consacrés à l'actualité européenne et internationale.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/20/f9819210cd125a402dcd9971043435c4768356ea_81148FA4B0C0F46A91A4CC04CE8827D0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130183000" channel="C111.api.telerama.fr" stop="20241130184500">
+    <title>Le dessous des cartes</title>
+    <sub-title>Amérique latine : une région sous les radars ?</sub-title>
+    <desc lang="fr">Quels sont les points communs entre les géants brésilien, mexicain et le minuscule Salvador ? Pourquoi parle-t-on souvent d'une "relégation" de ce sous-continent qui, en dépit de ses atouts, est resté soumis au jeu des grandes puissances, peinant à trouver sa propre identité géopolitique ?</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c2e278d7cfed42ce95200259e707fe64.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130184500" channel="C111.api.telerama.fr" stop="20241130190500">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 30/11/2024</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130190500" channel="C111.api.telerama.fr" stop="20241130195000">
+    <title>28 minutes samedi</title>
+    <desc lang="fr">Tous les samedis, Renaud Dély anime cette formule, adaptée au week-end, de l'émission d'actualité "28 Minutes" : avec à ses côtés Marie Bonnisseau, Nadia Daam et Jean-Mathieu Pernin, il commente l'actualité de la semaine écoulée, puis invite une personnalité reconnue dans son domaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c7ac333e9a73411585beb10d755cb86d.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130195000" channel="C111.api.telerama.fr" stop="20241130211000">
+    <title>Enquête sur les trésors enfouis de Notre-Dame</title>
+    <desc lang="fr">Si l'incendie qui a ravagé Notre-Dame de Paris en avril 2019 a suscité une immense émotion, le chantier de sa restauration a permis d'extraordinaires découvertes à la faveur de fouilles archéologiques préventives, réalisées dans l'urgence. Car les entrailles de la cathédrale la plus visitée au monde renferment nombre de secrets. Les scientifiques ont ainsi mis au jour, parmi une centaine de sépultures, deux cercueils de plomb scellés, dont ils vont s'employer à identifier les prestigieux occupants. Si le premier sarcophage reste une énigme, le second ne tarde pas à livrer la clef de son mystère : il s'agit de la sépulture d'Antoine de La Porte, un puissant chanoine du XVIIe siècle. En revanche, l'autre sépulture nécessite une enquête qui mobilise archéologues, anthropologues, médecins légistes, ingénieurs et historiens.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/17/20d028ccb44048c08d8a659e4b034cba.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241130211000" channel="C111.api.telerama.fr" stop="20241130220500">
+    <title>Notre-Dame de Paris, le chantier du siècle</title>
+    <sub-title>La quête de la hauteur</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Le 15 avril 2019, un départ de feu dans la toiture de Notre-Dame de Paris provoque un incendie qui va durer 15 heures, consumer la toiture et provoquer l'effondrement de la flèche. Dès le lendemain, huit groupes de travail, dont quatre portant sur l'étude des matériaux (bois, métal, pierre et verre), se constituent pour enrichir les connaissances sur Notre-Dame et plus largement sur les autres cathédrales médiévales, et apporter des informations utiles à la restauration de l'édifice. Confrontés à une recherche d'une ampleur inédite, ils s'attaquent à l'étude d'un arc médiéval de la nef effondrée. Pendant plusieurs mois, ils collectent, organisent et analysent la structure des centaines de blocs tombés des voûtes afin de comprendre leur agencement.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/04/24/39dcf9862f44bfcc143a9383a510f11c5733a1e6_93264C86D4FEA3BB553357A4E19023E2.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241130220500" channel="C111.api.telerama.fr" stop="20241130225500">
+    <title>Notre-Dame de Paris, le chantier du siècle</title>
+    <sub-title>L'harmonie des forces</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Edifiée sur l'île de la Cité au XIIe siècle, Notre-Dame est au moment de sa construction la plus haute cathédrale de la chrétienté. Par ses dimensions, la finesse de ses maçonneries et la forme de ses arcs-boutants, elle marque l'entrée de l'architecture gothique dans une nouvelle ère, faisant d'elle un gigantesque vaisseau de pierre où la matière s'efface devant l'espace. Ce chef-d'œuvre d'harmonie et d'équilibre a été bouleversé par l'incendie. La flèche s'est effondrée sur les voûtes en les brisant au niveau du transept et de la nef. Quant à la toiture en plomb et à la charpente, disparues dans les flammes, elles ont cessé de peser sur les murs, perturbant la stabilité de l'édifice. Pourtant, malgré ses fractures, la cathédrale ne s'est pas effondrée. Comment expliquer la résistance de Notre-Dame ?</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/04/24/39dcf9862f44bfcc143a9383a510f11c5733a1e6_93264C86D4FEA3BB553357A4E19023E2.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241130225500" channel="C111.api.telerama.fr" stop="20241130235500">
+    <title>Notre-Dame de Paris, le chantier du siècle</title>
+    <sub-title>La fabrique du sacré</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Le matériel et l'immatériel contribuent à la grandeur d'un monument sacré. Notre-Dame constituait un miracle de structure et de proportions, mettant en scène la hauteur, la lumière et l'acoustique. Avant d'entamer la pose d'un gigantesque échafaudage de plus de 96 mètres de haut, les architectes doivent s'assurer de la solidité des fondations. Une occasion unique pour les archéologues de l'Inrap de les explorer grâce à un robot télécommandé : centimètre par centimètre, un géo-radar va scanner deux jours durant l'intégralité du sol de la cathédrale. Se révèlent alors un sarcophage de plomb, inhumé vraisemblablement au XIVe siècle, et, enfouis au pied du chœur, les vestiges de plus de deux cents blocs et fragments de sculptures polychromes. Bientôt, un second sarcophage est découvert.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/04/24/39dcf9862f44bfcc143a9383a510f11c5733a1e6_93264C86D4FEA3BB553357A4E19023E2.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241130235500" channel="C111.api.telerama.fr" stop="20241201004500">
+    <title>Court-circuit</title>
+    <sub-title>Mystères de l'amour</sub-title>
+    <desc lang="fr">Deux courts métrages qui auscultent les mystères de l'amour : "La réputation" de Carmen Leroi et Emmanuel Mouret (2024) et "Faire un enfant" d'Éric K. Boulianne (2023).</desc>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/23/6ce34e4335d64f7d22c83ee7c7f691a6cb7371ff.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241126235000" channel="C111.api.telerama.fr" stop="20241127012500">
+    <title>La cité de la violence</title>
+    <desc lang="fr">Dans sa profession de tueur à gages, Jeff est un maître. En vacances aux Bahamas et alors qu'il circule en voiture avec Vanessa, sa maîtresse, il est pris en chasse par un groupe de bandits puis abattu sans ménagement par Coogan, le chef des assaillants. Vanessa prend la fuite, terrifiée. Mais Jeff n'est pas mort. Il retrouve force et santé et ne songe dès lors plus qu'à sa vengeance. Il commence par mettre la main sur Vanessa, qui vit maintenant avec Coogan. C'est alors qu'un riche et honorable truand, Weber, se mêle de faire chanter Jeff. Il veut que le tueur à gages solitaire se joigne à son organisation criminelle. Jeff refuse et les hommes de main de Weber se lancent à sa poursuite...</desc>
+    <credits>
+      <actor>Charles Bronson</actor>
+      <actor>Telly Savalas</actor>
+      <actor>Michel Constantin</actor>
+      <actor>Ireland Jill</actor>
+      <actor>George Savalas</actor>
+      <actor>Umberto Orsini</actor>
+      <actor>Peter Dane</actor>
+      <actor>Benjamin Lev</actor>
+      <actor>Goffredo Unger</actor>
+      <actor>Rai Sanders</actor>
+      <writer>Sergio Sollima</writer>
+      <writer>Sauro Scavolini</writer>
+      <writer>Gianfranco Galligarich</writer>
+      <writer>Lina Wertmüller</writer>
+    </credits>
+    <date>1970</date>
+    <category lang="fr">film policier</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/05/17/5b6d7539bd5ac3ea888959bab1f5bc7315449f7d_1C902C19558813461CE35D23AC822A9A.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241127012500" channel="C111.api.telerama.fr" stop="20241127022500">
+    <title>Iris Berben : Dans le regard d'une actrice</title>
+    <desc lang="fr">À 72 ans, en 2022, Iris Berben foule le tapis rouge cannois avec l'équipe de "Sans filtre" de Ruben Östlund, qui sera récompensé de la Palme d'or. Pour l'actrice allemande, qui y campe un second rôle aux répliques minimalistes, c'est une reconnaissance internationale couronnant cinq décennies de carrière. Dès ses 19 ans, la comédienne lutte pour conquérir sa place dans un monde d'hommes et dépasser son image de "jolie fille". Elle parvient à se démarquer d'entrée de jeu sur son premier film, "Detektive", réalisé par Rudolf Thome, avant d'enchaîner les projets. Au fil d'un riche parcours où elle alterne rôles comiques et sérieux dans plus de cent cinquante films et fictions, l'Allemande s'est imposée comme l'une des icônes du cinéma d'outre-Rhin.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/04/582fb425ec37419eb2b53cab19053996.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127022500" channel="C111.api.telerama.fr" stop="20241127032000">
+    <title>L'oeil et la vision : focus sur les avancées scientifiques</title>
+    <desc lang="fr">L'oeil autorise les hommes à penser qu'il leur montre le réel tel qu'il est. Disposant de vingt diaphragmes différents pour mieux s'adapter à la lumière tel un appareil photo, il est aussi doté d'une fonction zoom pour agrandir la vision et d'un filtre pour distinguer l'essentiel du superflu. Au bout de quatre-vingts ans, ses capteurs auront pris près de 830 millions de clichés grâce aux clignements des paupières. Pourtant, aussi perfectionnés soient-ils, l'évolution n'a pas préparé les yeux à un bon fonctionnement au-delà de cet âge. Le travail sur écran, l'utilisation des smartphones et le manque de sources de lumière naturelle constituent autant de défis nouveaux et de risques de vieillissement prématuré. En conséquence, avec l'augmentation de l'espérance de vie, les maladies oculaires deviennent plus nombreuses et plus longues.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/13/34a6bca71c2e457c8153ffb5a4efb49c.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127032000" channel="C111.api.telerama.fr" stop="20241127034500">
+    <title>Nos animaux et nous</title>
+    <sub-title>Le chien</sub-title>
+    <desc lang="fr">Domestiqué dès le paléolithique, le chien a tissé des liens extrêmement puissants avec l'être humain : il est aujourd'hui indispensable à certaines professions.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/16/c040d493928d405b8c1d08d5738c12d8.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127034500" channel="C111.api.telerama.fr" stop="20241127040500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241127040500" channel="C111.api.telerama.fr" stop="20241127043500">
+    <title>Surtourisme sur les chemins de Compostelle</title>
+    <desc lang="fr">Comme beaucoup de lieux touristiques, le chemin de Saint-Jacques de Compostelle est soumis au surtourisme : exemple en Espagne du côté de Santiago.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/13/4add5c8b975448369b150aa5ce4e1174.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127043500" channel="C111.api.telerama.fr" stop="20241127044000">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127044000" channel="C111.api.telerama.fr" stop="20241127045500">
+    <title>Le dessous des images</title>
+    <sub-title>Vous n'avez jamais vu cette Corée du Nord</sub-title>
+    <desc lang="fr">En mars 2024, un internaute publie sur Reddit deux vidéos et des images de Corée du Nord. Ces images volées prises par drone embrasent les réseaux sociaux. Pourquoi les images de Corée du Nord, qui sont loin d'être aussi rares qu'on le croit, nous fascinent-elles tant ?</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127045500" channel="C111.api.telerama.fr" stop="20241127055000">
+    <title>Dans les bottes de Lucky Luke</title>
+    <sub-title>Au royaume des cow-boys</sub-title>
+    <desc lang="fr">En soixante-dix ans et quatre-vingts albums, Lucky Luke a forgé un rêve américain à lui seul, faisant fantasmer des générations de jeunes Européens. Si l'univers coloré imaginé par Morris et Goscinny s'inspirait de faits historiques, il se nourrissait surtout des archétypes construits par le cinéma et la littérature, qu'il parodiait avec amour. Fan de la première heure, Jul, qui scénarise depuis 2016 les aventures du célèbre cow-boy, s'est mis en tête de confronter le personnage et son folklore à l'épreuve du réel. Que reste-t-il aujourd'hui de Lucky Luke ? Dans ses pas, l'auteur parisien débarque au Far West, le vrai, à la recherche des figures et lieux qui ont bercé son enfance.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/8d7087c83ec941d6943a7720dc25d363.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241127055000" channel="C111.api.telerama.fr" stop="20241127055500">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127055500" channel="C111.api.telerama.fr" stop="20241127065000">
+    <title>Cap-Vert, les chiens au secours des tortues</title>
+    <desc lang="fr">Au Cap-Vert, Kelo et Karetta, deux labradors venus de Suisse, participent à la lutte contre le braconnage et à la préservation des bébés tortues.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/03/6ea9c2f9f70497f5b000fa29fb00676b3120b793.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127065000" channel="C111.api.telerama.fr" stop="20241127073500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">"Le monde de Nemo" en Australie - Dinard, l'English Touch de la Bretagne - Au Nigéria, un scientifique perd sa précieuse tête.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/17/db0c7d2434555cfee4a3de35c0bb954aba6d0ff1_BEA0CC1C0FAFE818BB3E9328BA9F93C5.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127073500" channel="C111.api.telerama.fr" stop="20241127082500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Sur scène, à La Réunion, et sur les cinq continents, la chanteuse Maya Kamaty exulte et fait entendre sa voix, celle d'une femme créole, celle de toute une génération.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/13/96f7e316ebdc4d3c8e9c8288cabb9223.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127082500" channel="C111.api.telerama.fr" stop="20241127091000">
+    <title>Bienvenue à Marrakech ! Magique, mystique et mondaine</title>
+    <desc lang="fr">Au centre du Maroc, la ville de Marrakech, un joyau d'architecture traditionnelle, a fasciné l'élite culturelle occidentale dès les années 1930.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/09/129c352fb724419eb2e74703ee1e1867.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127091000" channel="C111.api.telerama.fr" stop="20241127095500">
+    <title>Bienvenue à Majorque ! L'île de la nostalgie</title>
+    <desc lang="fr">C'est dans les années 1960 que débute le tourisme de masse à Majorque. Cette surfréquentation a des conséquences sur la vie des habitants de cette île des Baléares.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/09/4734b7f8843a4289982ddc2cb1c0df89.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127095500" channel="C111.api.telerama.fr" stop="20241127104000">
+    <title>Canaries, les îles-volcans</title>
+    <sub-title>Grande Canarie et Fuerteventura</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - La Grande Canarie abrite quelque quatorze zones climatiques différentes, tandis que Fuerteventura compte parmi les régions les plus sèches d'Europe.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/38031574_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127104000" channel="C111.api.telerama.fr" stop="20241127112500">
+    <title>Canaries, les îles-volcans</title>
+    <sub-title>Tenerife</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - L'île de Tenerife, célèbre pour son cône volcanique de Teide qui culmine à plus de 3700 mètres, est marquée par l'empreinte du feu et de l'activité volcanique.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/38031574_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127112500" channel="C111.api.telerama.fr" stop="20241127123500">
+    <title>Le Danemark sauvage</title>
+    <sub-title>Campagnes</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Plus de 60 % de la superficie totale du Danemark est utilisée à des fins agricoles, les cultures grignotant peu à peu marécages, points d'eau, lacs et fourrés.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/14/6d16d985883945a6a0e79567199a70b4.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127123500" channel="C111.api.telerama.fr" stop="20241127153000">
+    <title>La grande évasion</title>
+    <desc lang="fr">En Allemagne, durant la Seconde Guerre mondiale. Des officiers alliés, connus pour leur goût de l'évasion, mais ayant toujours échoué jusqu'ici, sont transférés dans un camp de prisonniers dirigé par von Luger. Leur capitaine, Ramsey, prévient celui-ci qu'il est de leur devoir d'essayer sans cesse de s'évader, afin que l'ennemi n'ait point de répit. Incorrigible, Hilts tente la belle aussitôt et se retrouve au cachot. Plus méthodique, Bartlett propose de creuser trois tunnels partant des baraquements et aboutissant sous les barbelés et l'enceinte du camp. Chacun au fait de sa tâche, les prisonniers se mettent consciencieusement à l'ouvrage... - Critique : En 1943, des officiers alliés, prisonniers dans un camp allemand, creusent méthodiquement des galeries pour s’évader. Un long tunnel d’ennui ? Point du tout : on reste même scotché du début à la fin devant cette incroyable aventure de près de trois heures, inspirée d’une histoire vraie. Épreuve de titan, travail de fourmi, chapardages subtils, art de la diversion composent les étapes de cette longue opération pour se faire, enfin, la belle. Steve McQueen, en forte tête solitaire, diffuse son charme flegmatique légendaire. À ses côtés, Donald Pleasence, ornithologue aveugle, Charles Bronson, herculéen et claustro, et James Coburn, impérial de désinvolture, se distinguent aussi.
+
+Quant au finale à l’air libre, avec ses morceaux de bravoure dignes d’un western et sa chevauchée à moto, ses sauts d’obstacles, il laisse un goût de victoire et de défaite mêlées. Pour beaucoup, l’évasion échoue cruellement. Pas pour les téléspectateurs.</desc>
+    <credits>
+      <actor>Charles Bronson</actor>
+      <actor>Steve McQueen</actor>
+      <actor>Donald Pleasence</actor>
+      <actor>James Coburn</actor>
+      <actor>James Garner</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>James Donald</actor>
+      <actor>Gordon Jackson</actor>
+      <actor>Hannes Messemer</actor>
+      <actor>John Leyton</actor>
+      <actor>Angus Lennie</actor>
+      <actor>David McCallum</actor>
+      <writer>W.R. Burnett</writer>
+    </credits>
+    <date>1963</date>
+    <category lang="fr">film de guerre</category>
+    <length units="minutes">175</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/25965835_6206D28055A9F3F43D2FF5EFAA83351E.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241127153000" channel="C111.api.telerama.fr" stop="20241127162000">
+    <title>La mer du Nord par les côtes</title>
+    <sub-title>La Belgique et les Pays-Bas</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Si la côte belge de la mer du Nord est principalement connue pour ses grandes plages prisées des touristes, elle possède également un patrimoine culturel très vivant. En Flandre occidentale, quelques passionnés pratiquent toujours la pêche aux crevettes à cheval, perpétuant ainsi une tradition vieille de plus de cinq siècles. À l'est, la réserve naturelle du Zwin rassemble les oiseaux migrateurs.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/14/2fc8d22630dd4ff7a8294784e2bbf6ee.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127162000" channel="C111.api.telerama.fr" stop="20241127170500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">En Thaïlande, l'écrivain Rattawut Lapcharoensap révèle les luttes et les aspirations de la jeunesse de Bangkok. Né en 1979, avec la double culture américaine et thaïlandaise, il tente de regarder son pays sans préjugés.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/14/84ee774754004ba186b1e5aefc349bee.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127170500" channel="C111.api.telerama.fr" stop="20241127175500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Lawren Harris, peintre promoteur du Canada - Mazu, figure maternelle des Taïwanais - En Polynésie, des maisons les pieds dans l'eau.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/17/3260cd4ae863795f2594aff01b8a5b2766539495_BF243B6694C35C555BBB92F92E10C0F1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127175500" channel="C111.api.telerama.fr" stop="20241127183000">
+    <title>Urgent : cherche logement à Dublin</title>
+    <desc lang="fr">En Irlande, à Dublin, la crise immobilière se porte malheureusement bien et laisse à la rue des familles entières, où les jeunes sont les plus fragilisés.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/23/7ee3f960569d43dca9b80dca0333d37b.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127183000" channel="C111.api.telerama.fr" stop="20241127184500">
+    <title>Le dessous des images</title>
+    <sub-title>Un haka au Parlement</sub-title>
+    <desc lang="fr">En décembre 2023, une vidéo de haka lors d'une session du Parlement néo-zélandais a bousculé l'opinion publique. Cette performance réalisée par une élue maorie dans une institution publique est un cri politique. Son succès viral a donné un coup de projecteur à la culture maorie.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127184500" channel="C111.api.telerama.fr" stop="20241127190500">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 27/11/2024</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127190500" channel="C111.api.telerama.fr" stop="20241127195000">
+    <title>28 minutes</title>
+    <desc lang="fr">Le point sur l'actualité, avec un invité témoin et un débat sur le sujet chaud du jour, en compagnie de plusieurs journalistes. Chaque vendredi, un club d'intellectuels revisite l'actualité de la semaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127195000" channel="C111.api.telerama.fr" stop="20241127195500">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127195500" channel="C111.api.telerama.fr" stop="20241127231000">
+    <title>Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles</title>
+    <desc lang="fr">Jeanne, 45 ans, a perdu son mari voici dix ans, et vit avec son fils, Sylvain, âgé de 16 ans. En l'absence de ce dernier, elle a pris l'habitude de recevoir des "clients" à son domicile. Tous les jours, ses gestes s'enchaînent, mécaniquement, précisément : elle range les chambres, prend un bain, nettoie la baignoire, prépare le repas. Lorsque Sylvain rentre, sa mère va l'embrasser sans un mot. Le repas se passe sans une parole et tous les soirs, mère et fils font le tour du pâté de maison avant d'aller se coucher. Ce quotidien se répète durant des semaines, jusqu'à ce qu'un évènement inattendu se produise.</desc>
+    <credits>
+      <actor>Seyrig Delphine</actor>
+      <actor>Jacques Doniol-Valcroze</actor>
+      <actor>Henri Storck</actor>
+      <actor>Yves Bical</actor>
+      <actor>Jan Decorte</actor>
+      <writer>Chantal Akerman</writer>
+    </credits>
+    <date>1975</date>
+    <category lang="fr">film : drame psychologique</category>
+    <length units="minutes">195</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/7c393dc97e064bb28d7090873c622c23.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241127231000" channel="C111.api.telerama.fr" stop="20241128005000">
+    <title>Ninjababy</title>
+    <desc lang="fr">Avec de nombreux rêves dans la tête concernant son avenir, Rakel est pleine d'ambition et d'espoir. Mais un jour, soutenue par son amie, elle décide de faire un test de grossesse qui s'avère positif. Elle apprend alors qu'elle est enceinte depuis six mois, à la suite d'une aventure d'un soir. Pour la jeune femme, le choc est trop important : elle prend peur et conclut que la meilleure solution pour elle et le bébé reste l'adoption. Pour lui compliquer la vie, un personnage qu'elle dessinait dans son carnet de notes se met à apparaître partout dans sa vie : Ninjababy. Et ce dernier ne va pas se priver de commenter ses décisions... - Critique : Un peu « fille perdue, cheveux gras » norvégienne, la jeune Rakel fait beaucoup la fête et un peu d’aïkido, collectionnant sans modération les cuites et les amants. C’est chez elle, à sa table de travail, qu’elle concilie son tempérament un peu immature et un grand projet d’avenir : créer des bandes dessinées, être publiée… Jusqu’au jour où des préoccupations inimaginables la rattrapent : Rakel découvre qu’elle est enceinte, et qu’il est largement trop tard pour avorter. Un peu inquiet de la voir essayer de fuir par tous les moyens ses responsabilités de mère, le bébé qu’elle porte entre dans sa vie comme un personnage de bande dessinée, lui parle son langage…
+
+Sur le ton complice de la comédie, mais aussi avec un surprenant souci de vérité, la réalisatrice raconte une jeunesse éternellement rêveuse et repliée sur elle-même, comme éternellement critiquée pour son refus de s’adapter à la réalité de la vie… L’enfant à naître, bientôt surnommé Ninja Baby, surgit comme un rappel à l’ordre et force Rakel à sortir de sa bulle, à rencontrer des soignantes, à chercher le père… Mais il ne s’agit pas de rentrer dans le droit chemin. Rakel va de l’avant comme elle est, pleine d’idées et sans aucun instinct maternel. À travers les imperfections de son héroïne, Ninja Baby offre un regard nouveau et utile sur l’identité féminine. S’affirmer malgré les jugements, vivre à sa façon l’enfantement : cette fiction est bonne conseillère.</desc>
+    <credits>
+      <actor>Trine Wiggen</actor>
+      <actor>Berning Arthur</actor>
+      <actor>Janne Heltberg</actor>
+      <actor>Kjaersti Odden</actor>
+      <actor>Nader Khademi</actor>
+      <actor>Morten Svartveit</actor>
+      <actor>Evelyn Rasmussen Osazuwa</actor>
+      <actor>Kristine Thorp</actor>
+      <actor>Silya Nymoen</actor>
+      <actor>Tora Christine Dietrichson</actor>
+      <actor>Mathias Kolstad Eriksen</actor>
+      <actor>Anita Gulliksen</actor>
+      <writer>Yngvild Sve Flikke</writer>
+      <writer>Johan Fasting</writer>
+      <writer>Inga Sætre</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/12/1222d8cd71f14840958092466b040e52.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

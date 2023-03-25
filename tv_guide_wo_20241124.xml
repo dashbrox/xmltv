@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241123235000" channel="C111.api.telerama.fr" stop="20241124012000">
+    <title>Il buco</title>
+    <desc lang="fr">Années 1960. L'Italie souhaite dévoiler au monde sa prospérité en construisant la plus haute tour du pays. Pendant ce temps, de jeunes spéléologues décident quant à eux d'explorer la grotte la plus profonde de la Botte. A plusieurs centaines de mètres sous le sol, ils passent inaperçus pour les habitants des alentours, sauf pour l'ermite de la région. Grâce à cet intrigant personnage, ils vont parcourir un monde peu connu : celui des profondeurs, où se mêlent nature et mystère.. - Critique : Le coin est magnifique, encore sauvage, inhabité. Dans l’arrière-pays calabrais existe un abîme à peine repérable. Une petite ouverture donnant sur des grands fonds, ceux du gouffre de Bifurto, la deuxième grotte la plus profonde du monde. Elle fut découverte en 1961 par un groupe de spéléologues piémontais. Soixante ans plus tard, Michelangelo Frammartino revient sur cette étrange exploration en la reconstituant. Transformant le spectateur en découvreur. Transi, ébahi.
+
+Mètre après mètre, nous voilà en train de descendre. Dans un monde de ténèbres. La progression est lente, plusieurs fois on croit être au bout, mais non. Le trou semble sans fond. Le parcours est tortueux, comprend des coudes et des paliers, des bassins, des cavités hautes de plafond, des goulots. C’est une plongée saisissante vers l’inconnu. Plus oppressante et galvanisante que bon nombre de jeux vidéo ou de films de terreur.
+
+L’idée forte d’Il buco est de mettre en parallèle cette exploration avec le destin d’un vieux gardien de vaches. Cette sorte de totem archaïque observe de loin les spéléologues qui ont installé leur camp à l’entrée du gouffre. Il surveille son troupeau, il communique avec lui en donnant de la voix. Cet homme rejoint un moment d’autres ermites du coin, passe la nuit dans un refuge, mais le lendemain se sent mal. Commence pour lui aussi une descente, au sens figuré cette fois : une lente approche de la mort.
+
+L’avancée vers l’inconnu, le cœur de l’homme et celui de la terre. Voilà tout le travail riche d’échos et de métaphores de Michelangelo Frammartino. Ce réalisateur qui semble autant poète qu’ethnologue et cartographe a trouvé un angle original pour sonder et célébrer la Calabre qui lui est chère. En embrassant, de manière fluide et palpitante, jamais fastidieuse, à la fois son passé et son présent, son âme et son tréfonds.</desc>
+    <credits>
+      <actor>Claudia Candusso</actor>
+      <actor>Mila Costi</actor>
+      <actor>Carlos José Crespo</actor>
+      <actor>Jacopo Elia</actor>
+      <actor>Federico Gregoretti</actor>
+      <actor>Antonio Lanza</actor>
+      <actor>Nicola Lanza</actor>
+      <actor>Leonardo Larocca</actor>
+      <actor>Giovanbattista Sauro</actor>
+      <actor>Angelo Spadaro</actor>
+      <actor>Enrico Troisi</actor>
+      <actor>Denise Trombin</actor>
+      <writer>Giovanna Giuliani</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/03/a33b21c0c901f466d95b4a58bdfbe4be7b0e9a93_5823EC49CE954C7A984165E34B09C65B.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241124012000" channel="C111.api.telerama.fr" stop="20241124021500">
+    <title>Les coulisses de l'histoire</title>
+    <sub-title>Israël, merci Moscou</sub-title>
+    <desc lang="fr">Saison:3 - Episode:4 - Dans l'immédiat après-guerre, accorder une patrie aux juifs est loin d'être une priorité. A l'automne 1945, 70 000 survivants de l'Holocauste attendent toujours, dans des camps de déplacés, qu'on statue sur leur sort. En Palestine, où la population juive déjà installée rêve de constituer un Etat indépendant, la puissance d'occupation anglaise limite les visas d'entrée. A la tête de l'Agence juive, sorte d'embryon de gouvernement, David Ben Gourion travaille à exaucer ce voeu d'une terre promise. Mais sa volonté se heurte au jeu des grandes puissances : les Etats-Unis, par la voix de Harry Truman, se déclarent favorables à l'octroi de visas pour l'entrée des déplacés juifs en Palestine, quand les Britanniques s'y opposent farouchement.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/39764186_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241124021500" channel="C111.api.telerama.fr" stop="20241124024500">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Sommes-nous trop pessimistes ?</sub-title>
+    <desc lang="fr">Saison:1 - Episode:12 - Beaucoup de gens pensent avoir une vision réaliste de leur propre avenir, persuadés qu'ils sont bien informés de la tournure que pourrait prendre la marche du monde. La grande majorité a plutôt une vision optimiste du futur. Mais d'autres tendent plutôt au pessimisme et modèrent leurs attentes.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/07/818589861da1d21019b7a5e580e1e23814d59c3d.jpg" />
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124024500" channel="C111.api.telerama.fr" stop="20241124032700">
+    <title>Le Nord sauvage de l'Ecosse</title>
+    <desc lang="fr">Sur la côte ouest de l'Ecosse vivent les "crofters", des microfermiers qui ont appris à dompter une terre stérile pour subvenir à leurs besoins. Ce mode de vie simple attire de nombreux jeunes, dont Stacy qui a investi dans une ferme. Une fois par an, les Highlands accueillent des triathlètes du monde entier, qui s'affrontent lors du Celtman, une compétition dont le départ est donné au Loch Torridon. Après douze heures de course, les premiers vainqueurs franchissent la ligne d'arrivée. Enfin, à quelques pas de là, Sarah et Felix se sont lancés dans la rénovation d'un somptueux manoir laissé à l'abandon.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">42</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/30/3f026f79a331495a83fd3753b279f135.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124032700" channel="C111.api.telerama.fr" stop="20241124040000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">33</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124040000" channel="C111.api.telerama.fr" stop="20241124042500">
+    <title>Métrocosmos</title>
+    <sub-title>Paris</sub-title>
+    <desc lang="fr">Emprunté quotidiennement par plus de 4 millions d'usagers, le métro parisien est réputé pour son réseau particulièrement dense. Quatre nouvelles lignes viendront bientôt compléter les seize actuellement en service, et le designer franco-suisse Ruedi Baur a été chargé d'en élaborer la signalétique. L'explorateur urbex Ekton, lui, s'intéresse aux anciennes stations, restées figées dans le passé, qui sont particulièrement nombreuses à Paris. Quant au rappeur Oddateee, il investit les couloirs de Châtelet, où il fait retentir ses dernières compositions.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/28/14a63bef8de54db68b77999a9dd162cd.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124042500" channel="C111.api.telerama.fr" stop="20241124052500">
+    <title>Henry Fonda : la justice pour devise</title>
+    <desc lang="fr">Le jeune avocat maladroit, futur Abraham Lincoln, le métayer brutalisé par la Grande Dépression des "Raisins de la colère", le juré seul contre tous, défendant un accusé dans "Douze hommes en colère". Henry Fonda a créé, par le choix de ses films les plus emblématiques, un malentendu qui lui a valu sa carrière. Marqué à 19 ans par le lynchage, sous ses fenêtres, de William Brown, un ouvrier noir, le jeune homme du Nebraska, étoile montante de Hollywood, entame une collaboration fructueuse avec John Ford, explorant les failles, les rêves et les blessures du passé de l'Amérique. Mais celui en qui tous voient le visage de l'Américain intègre, révolté par l'injustice, ne s'y reconnaît guère. Préférant l'anonymat, il n'a jamais aimé parler de lui.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/51c15dc83eca431da5bc87a5e4c7f335.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241124052500" channel="C111.api.telerama.fr" stop="20241124061500">
+    <title>Voyage en eaux calmes</title>
+    <sub-title>Le lac Saimaa en Finlande</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Au sud-est de la Finlande, le lac Saimaa, le quatrième plus vaste d'Europe, constitue aussi la plus grande réserve d'eau douce du pays. Hérissé de milliers d'îles, il abrite un animal rare : le phoque annelé d'eau douce, dont la reproduction est menacée par des hivers de plus en plus doux. Autour du lac, l'extraction de la tourbe et l'industrie forestière fragilisent aussi l'équilibre des marais, polluent les eaux et détruisent l'écosystème des poissons. Mais les écologistes et les scientifiques s'allient aujourd'hui pour entreprendre la renaturation de ce paysage lacustre, favorisant notamment le retour du glouton. Inépuisables sources de vie, les lacs, qui se sont formés il y a des milliers, voire des millions d'années, jouent un rôle majeur.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/4d49d63547a34d81a2222b3563f3b746.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124061500" channel="C111.api.telerama.fr" stop="20241124071000">
+    <title>Les alliés cachés de notre organisme</title>
+    <desc lang="fr">Cela fait plus de trente ans que la fasciathérapie a fait son apparition en Occident parmi les médecines douces. Le tissu fascial, qui entoure à la manière d'un bandage à la fois dense et irrégulier les éléments composant le corps - organes, muscles et os –, est encore peu connu. Ce gigantesque réseau de fibres blanchâtres, qui relie toutes ces parties et, surtout, leur permet de fonctionner ensemble, commence à dévoiler une partie de ses pouvoirs grâce aux études de plusieurs pionniers interrogés ici, anatomistes et médecins, notamment. Visibles à l'échographie, sensibles à l'acupuncture et à la pression manuelle, facilement endommagés par le stress et l'inaction physique, les fascias pourraient en effet se révéler l'origine méconnue de nombreuses pathologies, dont les douleurs dorsales.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/11/8045ece5e029b9a6332b8058ef1fbbf1beab583a.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241124071000" channel="C111.api.telerama.fr" stop="20241124072500">
+    <title>ARTE Junior, le mag</title>
+    <desc lang="fr">Pour les 10-14 ans, l'actualité internationale et européenne traitée à hauteur d'enfant, à partir de questions posées par des élèves du primaire français et allemand. Sans oublier le portrait d'un enfant du monde.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/17/a3ffb319739f469685547895a94632d9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124072500" channel="C111.api.telerama.fr" stop="20241124075500">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Comment garder nos souvenirs ?</sub-title>
+    <desc lang="fr">La mémoire est la gardienne de l'identité : notre représentation du monde, de nous-mêmes et des autres s'appuie sur ce dont nous nous remémorons. Mais est-il possible de garder des souvenirs sans les déformer ? Car la mémoire joue parfois des tours : diverses expériences psychologiques ont démontré que, parfois, on se rappelle de choses qui ne se sont jamais produites. Quel est l'intérêt d'un tel biais ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/11/ec91e9adc45e4b3eaade8fa442af25d0" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124075500" channel="C111.api.telerama.fr" stop="20241124082000">
+    <title>Les grands palais de la nuit</title>
+    <sub-title>Friedrichstadt-Palast, Berlin</sub-title>
+    <desc lang="fr">Dans l'est de Berlin, le Friedrichstadt-Palast constitue un haut lieu du spectacle de revue - genre scénique de cabaret qui associe musique, théâtre et danse. Détruit et reconstruit à plusieurs reprises au cours de ses cent ans d'histoire, l'établissement a connu l'âge d'or des Années folles, la Seconde Guerre mondiale et le régime communiste, sous lequel a été érigé, en 1984, l'actuel bâtiment.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/11/98ee567ccb8a4e529184ab4da1a6632d.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124082000" channel="C111.api.telerama.fr" stop="20241124085000">
+    <title>Twist</title>
+    <sub-title>Ecrire un roman, comment faire ?</sub-title>
+    <desc lang="fr">Comment écrire un roman et comment en faire son métier ? Jonas Jonasson, Caroline Wahl, Iris Wolff et Matias Riikonen sont des auteurs à succès. Entre processus d'écriture et défis personnels liés à la genèse de leurs productions, ces professionnels du best-seller évoquent leur travail et livrent quelques conseils.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/27/1ac99222ab334c4294810baecad16c64.jpeg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124085000" channel="C111.api.telerama.fr" stop="20241124094000">
+    <title>Le Grand Canyon : terre d'aventures</title>
+    <desc lang="fr">Sculpté par les eaux du fleuve Colorado, le Grand Canyon serpente sur 450 kilomètres. Au fond de ses gorges, des cours d'eau scintillant font le bonheur des pêcheurs de truites.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/08/01/09cbbbc64ff932a738ca47edee4e9b5e58db9e2b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124094000" channel="C111.api.telerama.fr" stop="20241124100500">
+    <title>Cuisines des terroirs</title>
+    <sub-title>La Sicile occidentale</sub-title>
+    <desc lang="fr">En 2016, Andrea abandonne sa carrière de procureur pour reprendre l'oliveraie en friche de sa grand-mère, dans la province de Trapani en Sicile.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/11/0975667dceb049c0becfc933ee522bb2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124100500" channel="C111.api.telerama.fr" stop="20241124105000">
+    <title>Food Markets</title>
+    <sub-title>Le ventre de Palerme : Le marché de Ballaro</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Plus grand marché de Palerme, le Ballaro propose au visiteur des produits issus de l'agriculture sicilienne, dans une ambiance où se ressent l'influence arabe.</desc>
+    <date>2012</date>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/11/1f806e4943d55cf458ee797309f1f9e9a342cc7b.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124105000" channel="C111.api.telerama.fr" stop="20241124113500">
+    <title>Food Markets</title>
+    <sub-title>Le ventre de Lisbonne : Le marché de la Ribeira</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Depuis sa rénovation en 2014, le marché de la Ribeira est le paradis des gourmets : les meilleurs cuisiniers de Lisbonne y préparent de délicieux plats frais.</desc>
+    <date>2012</date>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/15/0bf5ee42d2056f367855d42acb533f9c89d78031.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124113500" channel="C111.api.telerama.fr" stop="20241124123500">
+    <title>Olivia de Havilland, l'Insoumise</title>
+    <desc lang="fr">Repérée par Max Reinhardt, Olivia de Havilland débute sur les planches dans "Le Songe d'une nuit d'été", avant de reprendre le rôle de Hermia sur grand écran à Hollywood. Séduits par son élégance sage, Hal Wallis et Jack Warner lui offrent un contrat de sept ans, l'actrice enchaînant alors les rôles avec Errol Flynn. Mais jouer les faire-valoir de partenaires masculins la lasse. En 1938, l'étoile montante, défiant Jack Warner, auditionne clandestinement pour "Autant en emporte le vent", et le doux personnage de Melanie la propulse au sommet. Remportant deux Oscars, pour "A chacun son destin" en 1947 et "L'Héritière" en 1950, la comédienne s'installe en France après son mariage avec le journaliste Pierre Galante. Ce portrait retrace le parcours d'une star libre, qui n'a jamais sacrifié son exigence à sa notoriété.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/27/ea82d36273b74ae8bc70feed4d9792c2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124123500" channel="C111.api.telerama.fr" stop="20241124140000">
+    <title>Drôle de missionnaire</title>
+    <desc lang="fr">Au début du XXe siècle, le père Charles Fortescue, missionnaire de l'Eglise d'Angleterre, rentre dans son pays après dix ans d'un dur labeur apostolique en Afrique. Il doit épouser la charmante et innocente Deborah, qui l'attend depuis des années. L'évêque de Charles, un homme d'esprit large, le convoque pour une affaire importante. Il souhaite lui confier la création d'une maison d'accueil pour les prostituées de Londres. Charles espérait que Deborah s'opposerait au projet, lui donnant une bonne occasion de refuser. Mais la jeune femme n'y voit aucun mal et pousse son fiancé à accepter cette mission. Charles se retrouve ainsi entouré de jeune femmes attirantes...</desc>
+    <credits>
+      <director>Richard Loncraine</director>
+      <actor>David Suchet</actor>
+      <actor>Michael Palin</actor>
+      <actor>Howard Trevor</actor>
+      <actor>Culver Roland</actor>
+      <actor>Michael Hordern</actor>
+      <actor>Denholm Elliott</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Graham Crowden</actor>
+      <actor>Phoebe Nicholls</actor>
+      <actor>Timothy Spall</actor>
+      <actor>George Tricia</actor>
+      <actor>Valerie Whittington</actor>
+    </credits>
+    <date>1982</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/08/08/f2d41a1e661b4b008b733da3fbe66c26.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124140000" channel="C111.api.telerama.fr" stop="20241124153000">
+    <title>Laos : Le trésor oublié de la civilisation khmère</title>
+    <desc lang="fr">Petit pays enclavé du Sud-Est asiatique, le Laos faisait partie il y a plus d'un millénaire de l'immense empire khmer. Dans le village de Nong Hua Thong, un paysan a fait en 2009 une étonnante découverte en bêchant son champ : soixante pièces d'orfèvrerie finement ouvragées, provenant d'aires culturelles diverses. En 2023, pour la première fois, une équipe internationale de chercheurs est autorisée à les étudier. De quelle époque ces précieux artefacts datent-ils ? Pourquoi ont-ils été cachés ? Que révèlent-ils de la société qui les a produits ? Préservées dans une chambre forte sécurisée, où les archéologues ont installé leur laboratoire, dans la ville voisine de Savannakhet, les pièces sont examinées une à une, tout comme les 1 800 fragments qui les accompagnaient.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/29/74ac47f275dd4fa0880b3083ee15dfc5.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241124153000" channel="C111.api.telerama.fr" stop="20241124161500">
+    <title>Bornéo, la forêt miraculée</title>
+    <desc lang="fr">Sur l'île de Bornéo, la culture des palmiers à huile a drastiquement réduit l'habitat naturel de la faune Orangs-outans, éléphants, singes nasiques : de nombreuses espèces sont menacées d'extinction. Avec l'aide des habitants locaux, l'ONG Hutan parvient peu à peu à restaurer des couloirs naturels pour permettre aux animaux de circuler entre les palmeraies.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/16/506e084e387e48ab98b0685e573f1a36.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124161500" channel="C111.api.telerama.fr" stop="20241124165000">
+    <title>Le Tyrol du Sud</title>
+    <sub-title>Autour de Merano</sub-title>
+    <desc lang="fr">De la cité thermale de Merano au village d'Avelengo, ce volet part à la rencontre d'agriculteurs, d'un fabricant de cloches de vaches ou d'un dessinateur de BD.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/24/e7354f32-8cda-446d-aadb-88db7516a38e.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124165000" channel="C111.api.telerama.fr" stop="20241124174500">
+    <title>George Grosz : Les années françaises d'un peintre allemand</title>
+    <desc lang="fr">Figure majeure de la Nouvelle Objectivité, George Grosz a disséqué la société allemande des années 1920 dans des toiles et dessins corrosifs. Revisitant son parcours, ce documentaire se penche sur ses séjours prolongés en France, où il a connu un succès considérable.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/12/c2ec49477e5347268122fc9c51d682c2.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124174500" channel="C111.api.telerama.fr" stop="20241124183000">
+    <title>Les grands moments de la musique</title>
+    <sub-title>Angela Gheorghiu chante "La Traviata"</sub-title>
+    <desc lang="fr">En 1994, la télévision britannique diffusait "La traviata" de Verdi en direct depuis Covent Garden. Une production légendaire avec la soprano Angela Gheorghiu, qui chantait le rôle de Violetta pour la première fois.</desc>
+    <category lang="fr">musique : classique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/11/5200c8cbf55a459382bbd7a5a4019e07.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124183000" channel="C111.api.telerama.fr" stop="20241124184500">
+    <title>Karambolage</title>
+    <desc lang="fr">Pierre-Olivier François a grandi à Berlin. Il lui est resté de cette enfance allemande la nostalgie d'un plat très, très, allemand : le Döner kebab. Le traducteur berlinois Hinrich Schmidt-Henkel, toujours sur ses gardes, a déniché un mot qui devrait éveiller la curiosité : "Kiwief". Ariane Kujawski ouvre le manuel du parfait rédacteur : le Bescherelle.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/09/04/dda96042153f541f690c459d7e5f25a902ed52ae_0D06C6C797893FF04978AECC277E5D04.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124184500" channel="C111.api.telerama.fr" stop="20241124190500">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 24/11/2024</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124190500" channel="C111.api.telerama.fr" stop="20241124200000">
+    <title>Catherine Deneuve, à son image</title>
+    <desc lang="fr">Son image de blonde impassible, mythifiée par le sulfureux Belle de jour de Luis Buñuel, lui a longtemps collé à la peau. Certains réalisateurs ont joué de ce fantasme, quand d'autres, tel François Truffaut, ont cherché à le contourner. Catherine Deneuve, elle, s'en est libérée en menant sa carrière selon ses instincts, ses rencontres et sa passion cinéphile. Au long des décennies, elle a exploré tous les registres, entre truculentes comédies ("La Vie de château" de Jean-Paul Rappeneau, "Potiche" de François Ozon) et incursions dans des univers exigeants (chez Manoel de Oliveira ou Raúl Ruiz, notamment), révélant des facettes inédites de son jeu.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/10/02/48b128444dd437f5cb5ff347846cf0cc76f57eb2_DE4CD7CD087DD2CF5C341CBB5F4B1DCB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241124200000" channel="C111.api.telerama.fr" stop="20241124215500">
+    <title>La conspiration du Caire</title>
+    <desc lang="fr">Le jour de la rentrée à l'université al-Azhar du Caire, le Grand Imam décède. Considéré comme la plus haute autorité sunnite du pays, son remplacement est encadré par le pouvoir en place. Soucieux de placer leur candidat à ce poste crucial, les dirigeants, par l'intermédiaire de l'enquêteur Ibrahim, décident de démarcher un élève capable d'espionner ses camarades. C'est Adam, un étudiant boursier, qui est choisi par les services secrets égyptiens pour son profil. Sans attache dans la capitale, le jeune homme bénéficie d'une bonne image. Mais très vite, il se retrouve dans un tourbillon entre les élites religieuses et politiques du pays... - Critique : Trois jours avant le début du tournage de Le Caire confidentiel, en 2015, Tarik Saleh avait dû quitter l’Égypte sur ordre des services de sécurité. Depuis, le cinéaste suédois né de père égyptien est indésirable au pays des pharaons. Et il devrait le rester pour longtemps, au vu de son nouveau long métrage, prix du scénario mérité au dernier Festival de Cannes. La Conspiration du Caire se révèle, en effet, une critique virulente des dérives de pouvoir autoritaire du maréchal Al-Sissi, et plus particulièrement de ses barbouzeries sanglantes.
+
+Après avoir utilisé avec bonheur les codes du film noir dans Le Caire confidentiel, le réalisateur propose ici un genre cinématographique composite, que l’on pourrait qualifier de « thriller d’espionnage religieux ». Adam, fils d’un modeste pêcheur du nord du pays, obtient une bourse pour étudier à l’université cairote al-Azhar, haut lieu de l’islam sunnite dont le grand imam est plus ou moins l’équivalent du pape pour les catholiques. À la mort brutale de ce dernier, les services secrets sont bien décidés à influer sur l’élection en interne de son successeur en poussant un candidat proche de leurs idées… et en déstabilisant ses concurrents les plus dangereux. Un officier expérimenté, Ibrahim, jette son dévolu sur Adam, qui va devenir sa « taupe » au sein d’al-Azhar et l’instrument d’une manipulation politico-religieuse où tous les coups sont permis.
+
+« Tu es un cœur pur, mais qu’al-Azhar va souiller de plus en plus », dit en substance l’assistant d’un enseignant à Adam. De fait, l’étudiant à la gueule d’ange, à qui on donnerait Allah sans confession, se transforme en agent double, voire triple, particulièrement doué, capable, même si c’est la mort dans l’âme, de trahir l’un de ses rares amis, dans un récit riche en rebondissements et en coups tordus que n’auraient pas renié les maîtres espions de John le Carré. L’ascension de ce novice moins naïf que prévu ressemble à celle du héros d’Un prophète, de Jacques Audiard, le trafic de drogue en moins, l’exégèse des paraboles coraniques en plus. Tarik Saleh filme d’ailleurs l’université islamique, reconstituée dans le décor étonnant et puissamment cinégénique de la mosquée Süleymaniye d’Istanbul, comme une prison où tout le monde soupçonne tout le monde. Une métaphore de l’Égypte et de sa société sous surveillance où la Sûreté d’État fait régner la terreur.
+
+Face au jeune Tawfeek Bahrom, peut-être un peu tendre pour le rôle complexe d’Adam, Fares Fares, l’inoubliable interprète de l’inspecteur Nourredine dans Le Caire confidentiel, est méconnaissable, mais une nouvelle fois saisissant, dans la peau de l’officier traitant Ibrahim. Un personnage trouble, dur, cruel, finalement proche de son personnage du précédent film : un exécutant dévoué, vaguement désabusé, mais dont l’humanité pourrait se réveiller face à l’injustice ou l’ignominie de trop…</desc>
+    <credits>
+      <actor>Makram Khoury</actor>
+      <actor>Fares Fares</actor>
+      <actor>Dehbi Mehdi</actor>
+      <actor>Mohammad Bakri</actor>
+      <actor>Ramzi Choukair</actor>
+      <actor>Tawfeek Barhom</actor>
+      <actor>Sherwan Haji</actor>
+      <actor>Ahmed Laissaoui</actor>
+      <actor>Moe Ayoub</actor>
+      <actor>Abduljabbar Alsuhili</actor>
+      <actor>Akin Aral</actor>
+      <actor>Jawad Altawil</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : thriller</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/20/f6cac241638396e0e839fd6c0c5e6fe05d177d7e_F6182189F582D2A39F62114D93325362.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241124215500" channel="C111.api.telerama.fr" stop="20241124225000">
+    <title>Il était une fois...</title>
+    <sub-title>"La conspiration du Caire"</sub-title>
+    <desc lang="fr">En 2016 au Caire, l'équipe du réalisateur Tarik Saleh, né en 1972 à Stockholm d'un père égyptien et d'une mère suédoise, s'apprête à tourner un polar politique dans la grande tradition du genre. Inspiré d'un fait divers réel, "Le Caire confidentiel" met en scène un policier contaminé par la corruption ambiante, campé par l'acteur libano-suédois Fares Fares. Surveillé par les autorités en raison du sujet traité, le cinéaste est expulsé du Caire la veille du tournage, avec interdiction d'y revenir. Cinq ans plus tard, Tarik Saleh n'a pas désarmé et analyse les failles de l'Égypte actuelle par le prisme d'un récit haletant, construit autour d'une lutte de pouvoir entre les instances religieuses et politiques.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/11/30f3eafc28c9489eae7c97d4cc5a74a4.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241124225000" channel="C111.api.telerama.fr" stop="20241124234500">
+    <title>Une saga de l'Europe culturelle : Au coeur du XIXe siècle</title>
+    <desc lang="fr">À l'automne 1843, Pauline Viardot, mezzo-soprano de 22 ans, triomphe à Saint-Pétersbourg dans "Le Barbier de Séville", de Rossini. Poussée loin de Paris par la jalousie de deux rivales, cette jeune musicienne d'origine espagnole, petite sœur de la défunte Malibran, qui fut avant elle une diva célébrée sur toutes les scènes d'Europe, voyage avec son époux, Louis, traducteur, critique et collectionneur d'art. Dans la capitale ardemment tournée vers l'Europe de cette Russie où le servage est toujours en vigueur, elle bouleverse un jeune poète idéaliste épris de littérature allemande, Ivan Tourgueniev. Sillonnant l'Europe au gré des rencontres, des engagements de Pauline Viardot et des événements de cette seconde moitié du XIXe siècle, ce triangle amoureux ne sera séparé que par la mort.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/11/13e8e78df8f24a0f8bdb71d5f8ed93e2.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241124234500" channel="C111.api.telerama.fr" stop="20241125023700">
+    <title>Giacomo Puccini : Il trittico</title>
+    <desc lang="fr">Composé de la tragédie brutale "Il tabarro", du lyrique et sensible "Suor Angelica" et de la comédie "Gianni Schicchi", "Il trittico" de Giacomo Puccini, un cycle de trois opéras en un acte, rassemble trois registres, trois lieux et trois "couleurs", chaque partie prenant place dans des milieux sociaux différents. Cette œuvre unique, jouée dans son intégralité au Théâtre de la Monnaie à Bruxelles et mise en scène par Tobias Kratzer, conserve l'ordre original des pièces tout en tissant entre elles d'astucieux liens.</desc>
+    <category lang="fr">opéra</category>
+    <length units="minutes">172</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/05/30/75f92da69fa576e0c707abd6565d18f9a772e009.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

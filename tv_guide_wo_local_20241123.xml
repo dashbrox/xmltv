@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241123011500 +0100" channel="C111.api.telerama.fr" stop="20241123022000 +0100">
+    <title>Le cauchemar des "deepfakes" pornographiques</title>
+    <desc lang="fr">Taylor Klein, étudiante de 23 ans, s'aperçoit un jour que circulent sur les réseaux sociaux des vidéos pornographiques où elle apparaît. Elle n'a pourtant jamais joué dans ce genre de séquences. Grâce à l'intelligence artificielle, son visage a été copié puis plaqué sur des corps en action, le résultat s'avérant d'un réalisme troublant. Pour la jeune femme, le calvaire s'intensifie quand elle comprend que son nom et son adresse accompagnent les mises en ligne. En état de choc, Taylor se replie sur elle-même. Mais qui est l'auteur de ces deepfakes et quelles motivations l'animent ? Alors que la police se révèle impuissante, la jeune femme et une amie, elle aussi victime de ces terribles détournements, cherchent des indices. En recoupant les infos sur leur entourage, elles établissent une liste de trois amis qui étudient à la fac.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/30/1c413129eacb467cb73cce0f5fe740bf.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123022000 +0100" channel="C111.api.telerama.fr" stop="20241123033000 +0100">
+    <title>Pauvres poulets</title>
+    <desc lang="fr">Malgré un intérêt déclaré pour le bien-être animal, un grand nombre de personnes optent pour des oeufs à bas prix. Si les conditions d'élevage des poules pondeuses restent mal connues, plus de 90% des oeufs consommés en France et en Allemagne proviennent d'élevages intensifs, que ce soit en cage, au sol - dans des hangars sans accès à l'extérieur -, en plein air ou même bio. En France, l'élevage en cage – officiellement banni depuis 2012 par Bruxelles – représente encore 69% de la production, et les conditions d'élevage au sol, polluant et peu respectueux des gallinacés, ne sont guère plus enviables.</desc>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/23/e5443c135c0187a2cb9b94e3ffdd8b5c85e0f82b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241123033000 +0100" channel="C111.api.telerama.fr" stop="20241123040000 +0100">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Prenons-nous suffisamment de risques ?</sub-title>
+    <desc lang="fr">Qui ne préfère pas assurer ses arrières ? En cause : la peur du risque. Même un acte aussi anodin qu'éplucher une banane peut s'avérer risqué : elle pourrait glisser et l'on pourrait se couper, se blesser… Mais faut-il pour autant s'inquiéter du moindre aléa ? Et si la peur n'évitait pas le danger, bien au contraire ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/08fd9996bb5d48b3b4657459d20f9f50.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123040000 +0100" channel="C111.api.telerama.fr" stop="20241123043200 +0100">
+    <title>Le Tyrol du Sud</title>
+    <sub-title>Autour du lac de Caldaro</sub-title>
+    <desc lang="fr">Le Tyrol du Sud abrite un coin de nature quasi méditerranéen autour de sa capitale, Bolzano : découverte d'une région prospère où il fait bon vivre.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">32</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/30/0e2019dc72d696c1547fc6b8cb50aab9ef5dad75.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123043200 +0100" channel="C111.api.telerama.fr" stop="20241123053500 +0100">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">63</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123053500 +0100" channel="C111.api.telerama.fr" stop="20241123070000 +0100">
+    <title>Roberta Flack : Piano, voix et combats</title>
+    <desc lang="fr">Roberta Flack partage beaucoup avec Nina Simone, de quatre ans son aînée, dont une remarquable précocité pour le piano classique. Sans réel espoir de carrière solo dans une Amérique ségrégationniste, elle se consacre par défaut mais avec foi à l'enseignement. La musicienne surdouée accède finalement à la célébrité par le groove velouté de sa voix d'or. Clint Eastwood l'intègre à la bande originale de son film "Un frisson dans la nuit", la propulsant subitement au sommet. Marquant dès lors des standards de sa déchirante et délicate empreinte, la chanteuse, coiffure afro et paupières pailletées, enchaîne les succès en multipliant les engagements, avec le mouvement Black Power, mais aussi auprès des femmes et pour la cause LGBTQIA+.</desc>
+    <category lang="fr">documentaire musique</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/c9a4e7c462fd9828a15390af1b86f4e8.jpeg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241123070000 +0100" channel="C111.api.telerama.fr" stop="20241123073500 +0100">
+    <title>Népal, les mandalas de sable</title>
+    <desc lang="fr">Quelque 230 nonnes appartenant à la lignée Karma Kagyu, l'une des quatre écoles principales du bouddhisme tibétain, étudient et travaillent dans le monastère Thrangu Tara situé à l'ouest de Katmandou. Actuellement, elles se dévouent au salut du vénérable lama Thrangu Rinpoché, récemment décédé. Pour ce faire, elles créent un mandala de protection pour leur maître spirituel. Des jours durant, Ani Jamyang et trois autres nonnes restent penchées sur leur ouvrage, extrêmement concentrées : le sable coloré ruisselle inlassablement, faisant émerger peu à peu une figure géométrique.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/27/9bb55cbae07a4dd9b8e9f59cff652339.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123073500 +0100" channel="C111.api.telerama.fr" stop="20241123083000 +0100">
+    <title>Cambodge, les pêcheurs nomades du Tonlé Sap</title>
+    <desc lang="fr">Chaque printemps, dans les villages flottants du lac Tonle Sap, au Cambodge, c'est l'heure du déménagement alors que le niveau d'eau baisse.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/25/465becf07a8c466ca567d94289b9f313.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123083000 +0100" channel="C111.api.telerama.fr" stop="20241123092000 +0100">
+    <title>Les seigneurs de la lavande</title>
+    <desc lang="fr">En Provence, les producteurs de lavande font face à la prolifération de la cicadelle, un insecte qui fait des ravages, et à la concurrence bulgare.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123092000 +0100" channel="C111.api.telerama.fr" stop="20241123100000 +0100">
+    <title>Invitation au voyage</title>
+    <sub-title>Rwanda</sub-title>
+    <desc lang="fr">Le Rwanda est une terre constellée de lacs et de rivières sacrées. C'est ici qu'a grandi l'écrivaine Scholastique Mukasonga, avant de fuir les premières tensions ethniques.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/03/b3abd53ed73b4b088b27f2f16f10a04c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123100000 +0100" channel="C111.api.telerama.fr" stop="20241123103000 +0100">
+    <title>Cuisines des terroirs</title>
+    <sub-title>La Martinique</sub-title>
+    <desc lang="fr">Près d'un millier d'arbres fruitiers, légumes et autres herbes poussent sur le terrain de Waël Toto à l'ouest de la Martinique. Sa cuisine est à base de produits locaux.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/28/41550d5e933281c874eeb38358d880e1df641683.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123103000 +0100" channel="C111.api.telerama.fr" stop="20241123111500 +0100">
+    <title>L'archipel des Philippines</title>
+    <sub-title>Les grottes labyrinthiques de Palawan</sub-title>
+    <desc lang="fr">Palawan compte parmi les îles les plus impressionnantes des Philippines, entre pains de sucre et plages de rêve. Au large de Port Barton, un plongeur explore l'écosystème marin.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/25/4b888c8c404544d49b673d165258719d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123111500 +0100" channel="C111.api.telerama.fr" stop="20241123120000 +0100">
+    <title>L'archipel des Philippines</title>
+    <sub-title>Les redoutables volcans de Luçon</sub-title>
+    <desc lang="fr">Luçon, la plus grande île des Philippines, abrite trente-trois volcans dont huit sont encore en activité. Les habitants sont régulièrement confrontés à leur colère.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/26/11998a1c1bf44c339a494361531a755f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123120000 +0100" channel="C111.api.telerama.fr" stop="20241123124500 +0100">
+    <title>L'archipel des Philippines</title>
+    <sub-title>Les trésors naturels de Bohol</sub-title>
+    <desc lang="fr">L'île de Bohol est réputée pour ses récifs coralliens, ses chutes d'eau et ses formations géologiques baptisées Chocolate Hills, des monticules coniques de couleur brune.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/26/977b237202de4c6cac57502bdbad76eb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123124500 +0100" channel="C111.api.telerama.fr" stop="20241123133000 +0100">
+    <title>Le Nord sauvage de l'Ecosse : Des moutons et des surfeurs</title>
+    <desc lang="fr">Dans le nord de l'Ecosse, pendant que certains s'entraînent à l'aviron de mer, d'autres tentent de faire renaître le tartan, étoffe de laine traditionnelle.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/06015a2f35729ffa6c5e11066f67a5ec9e4c6c8a.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123133000 +0100" channel="C111.api.telerama.fr" stop="20241123142500 +0100">
+    <title>Dans les bottes de Lucky Luke</title>
+    <sub-title>Au royaume des cow-boys</sub-title>
+    <desc lang="fr">En soixante-dix ans et quatre-vingts albums, Lucky Luke a forgé un rêve américain à lui seul, faisant fantasmer des générations de jeunes Européens. Si l'univers coloré imaginé par Morris et Goscinny s'inspirait de faits historiques, il se nourrissait surtout des archétypes construits par le cinéma et la littérature, qu'il parodiait avec amour. Fan de la première heure, Jul, qui scénarise depuis 2016 les aventures du célèbre cow-boy, s'est mis en tête de confronter le personnage et son folklore à l'épreuve du réel. Que reste-t-il aujourd'hui de Lucky Luke ? Dans ses pas, l'auteur parisien débarque au Far West, le vrai, à la recherche des figures et lieux qui ont bercé son enfance.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/8d7087c83ec941d6943a7720dc25d363.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241123142500 +0100" channel="C111.api.telerama.fr" stop="20241123152000 +0100">
+    <title>Dans les bottes de Lucky Luke</title>
+    <sub-title>Les fantômes de l'Ouest</sub-title>
+    <desc lang="fr">Après avoir découvert avec enthousiasme que le folklore western existait toujours, Jul poursuit son enquête sur les traces de Lucky Luke. Il rencontre des chauffeurs de trucks rappelant les diligences du passé, traverse des villages endormis le long de routes sans fin, embarque dans une locomotive à vapeur et découvre une mine fantôme que la ruée vers l'or semble avoir laissée intacte. Lorsqu'il est accueilli par des descendants des peuples sioux et apache dans leurs réserves du Dakota du Sud et du Nouveau-Mexique, les ombres de la conquête de l'Ouest se projettent sur sa route.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/6c689cdc41c94b11ba5420486cd0ed25.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123152000 +0100" channel="C111.api.telerama.fr" stop="20241123163500 +0100">
+    <title>Dans les bottes de Lucky Luke</title>
+    <sub-title>Toutes les couleurs du western</sub-title>
+    <desc lang="fr">Comme les Indiens et leurs signaux de fumée, le blanchisseur chinois et le Mexicain endormi font partie de ces personnages stéréotypés dont regorge l'univers de Lucky Luke. Dans ce dernier épisode, Jul porte son attention sur cette galerie de portraits hauts en couleur qui a amusé des générations d'enfants mais qui cache souvent une histoire dramatique. Prenant la route du Sud, l'apprenti cow-boy descend le Mississippi, visite champs de coton et anciennes plantations, découvre la richesse culturelle cajun mais aussi la survivance du racisme.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/020637ee203844fc961e5d858df5a946.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123163500 +0100" channel="C111.api.telerama.fr" stop="20241123171500 +0100">
+    <title>Invitation au voyage</title>
+    <sub-title>Arménie</sub-title>
+    <desc lang="fr">Trois reportages partent à la découverte de l'Arménie : en Arménie, Vassili Grossman reprend goût à la vie - Arménie, une identité chrétienne - En Arménie, un trésor sauvé de justesse.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/10/28024089f113454ab1064301dc1fcc97.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123171500 +0100" channel="C111.api.telerama.fr" stop="20241123175000 +0100">
+    <title>Le Kintoa, roi des cochons basques</title>
+    <desc lang="fr">Dans l'après-guerre, il ne restait plus que quelques porcs Kintoa dans les Pyrénées. À la fin des années 1980, le boucher français Pierre Oteiza a sauvé l'espèce.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/10/a9c898830ee24ba7acf54d7d5f5ea937.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123175000 +0100" channel="C111.api.telerama.fr" stop="20241123183500 +0100">
+    <title>Kazakhstan : Mamie et son taxi</title>
+    <desc lang="fr">Orazkhan Manabayeva sillonne les routes de la ville d'Aïagouz, dans le sud-est du Kazakhstan. Elle est la seule femme de la ville à conduire un taxi.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/04/59c697886794458db99c2fb127808331.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123183500 +0100" channel="C111.api.telerama.fr" stop="20241123193000 +0100">
+    <title>Arte reportage</title>
+    <desc lang="fr">En Éthiopie, dans la région du Tigré, deux femmes se battent pour faire entendre les souffrances de milliers d'autres femmes victimes de viols de guerre / Violences sexuelles dans les conflits : Céline Bardet, fondatrice de l'ONG We Are NOT Weapons of War, explique la difficulté de recueillir des preuves.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/20/f9819210cd125a402dcd9971043435c4768356ea_81148FA4B0C0F46A91A4CC04CE8827D0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123193000 +0100" channel="C111.api.telerama.fr" stop="20241123194500 +0100">
+    <title>Le dessous des cartes</title>
+    <sub-title>Les milices de l'Iran : qui sont les "proxys" ?</sub-title>
+    <desc lang="fr">Les milices armées par l'Iran, du Hezbollah libanais jusqu'aux Houthis du Yémen, sans oublier les milices irakiennes, font la guerre à la place de Téhéran.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c2e278d7cfed42ce95200259e707fe64.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123194500 +0100" channel="C111.api.telerama.fr" stop="20241123200500 +0100">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 23/11/2024</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123200500 +0100" channel="C111.api.telerama.fr" stop="20241123205000 +0100">
+    <title>28 minutes samedi</title>
+    <desc lang="fr">Tous les samedis, Renaud Dély anime cette formule, adaptée au week-end, de l'émission d'actualité "28 Minutes" : avec à ses côtés Marie Bonnisseau, Nadia Daam et Jean-Mathieu Pernin, il commente l'actualité de la semaine écoulée, puis invite une personnalité reconnue dans son domaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c7ac333e9a73411585beb10d755cb86d.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123205000 +0100" channel="C111.api.telerama.fr" stop="20241123213500 +0100">
+    <title>Les ancêtres des Windsor</title>
+    <sub-title>George Ier, l'héritier</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - À l'issue de l'acte d'Établissement de 1701, voté par le Parlement anglais pour préserver les acquis de la Glorieuse Révolution, la succession au trône britannique est désormais exclusivement réservée aux descendants protestants du roi Jacques Ier Stuart. George-Louis de Brunswick-Lunebourg, prince héritier du Hanovre, est alors identifié comme le seul prétendant éligible à la couronne et devient roi sous le nom de George Ier en 1714. S'il apporte de la stabilité au royaume d'un point de vue politique, ce roi d'origine germanique, qui ne parle pas la langue de ses sujets, est peu apprécié. Alors qu'il est défié par les partisans de la maison Stuart lors de la première rébellion jacobite en 1715, George Ier trouve refuge aux côtés de ses maîtresses et dans ses fréquents voyages à Hanovre.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/10/488af9ea38174e94bf8e8c3b443979b2.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123213500 +0100" channel="C111.api.telerama.fr" stop="20241123222000 +0100">
+    <title>Les ancêtres des Windsor</title>
+    <sub-title>George II, le roi guerrier</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - La popularité de George II auprès de ses sujets précède son couronnement, qui survient en 1727. Sa réputation de guerrier, gagnée sur les champs de bataille de la guerre de succession d'Espagne (1701-1714), se confirme avec celle de l'Autriche (1740-1748) et la guerre de Sept Ans (1756-1763). Sous son règne, la dynastie de Hanovre se renforce, notamment quand il écrase la seconde rébellion jacobite de 1745, instiguée par l'héritier de la dynastie Stuart. Mais sur le plan personnel, George II est rongé par la rancœur qu'il éprouve pour son père, et qui envenime sa relation avec son propre fils, le prince Frédéric. Quand celui-ci meurt, en 1751, le souverain endeuillé doit réfléchir à sa succession.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/10/4483bad97eec4c2e8e39120ba0c58c10.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123222000 +0100" channel="C111.api.telerama.fr" stop="20241123231000 +0100">
+    <title>Les ancêtres des Windsor</title>
+    <sub-title>George III, le roi fou</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Premier des rois de Hanovre à être né et élevé en Grande-Bretagne, George III, petit-fils de George II, se sent profondément patriote. Monté sur le trône en 1761, à seulement 21 ans, le jeune souverain recueille les fruits d'une victoire, celle de la guerre de Sept Ans (1756-1763), mais essuie vingt ans plus tard une cuisante défaite contre les États-Unis d'Amérique, dont le traité de Paris reconnaît l'indépendance en 1783. Son règne, le plus long jusque-là de l'histoire britannique (soixante ans, record battu par Victoria, puis Élisabeth II), devient plus malaisé après la Révolution française, qui remet sa légitimité en cause. Néanmoins adoré de ses sujets, George III connaît une fin tragique, sombrant petit à petit dans la folie.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/10/49142f38e2b54ab5b7dcc80cc432d36e.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241123231000 +0100" channel="C111.api.telerama.fr" stop="20241124000000 +0100">
+    <title>Les ancêtres des Windsor</title>
+    <sub-title>George IV, le roi dilettante</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - George IV se construit en opposition à l'exemple de vertu et de moralité que son père George III incarnait. En réaction à son éducation puritaine, il multiplie les excès, les dettes, les maîtresses et les scandales. Prince régent dès 1811, en raison de la maladie mentale de son père, il sert ses propres intérêts avant ceux de la Couronne et se lance dans des chantiers dispendieux, comme celui qui transforme son palais de Brighton en un joyau d'architecture au style anglo-indien. Si la finesse de ses goûts est honorée par la postérité, au travers des arts qu'il a encouragés durant cette période dite de la régence, George IV, surtout moqué, voire haï par ses contemporains, sera peu regretté à sa mort, survenue en 1830.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/10/e255af20f5de4b58b19039a47f152aff.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

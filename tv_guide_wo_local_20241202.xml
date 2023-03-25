@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241201233000 +0100" channel="C111.api.telerama.fr" stop="20241202010500 +0100">
+    <title>Miucha, la voix de la bossa nova</title>
+    <desc lang="fr">Née en 1937, Heloísa Maria Buarque de Hollanda, rebaptisée Miúcha par sa famille, grandit entre une mère très catholique et un père intellectuel bohème. Précocement "subjuguée par la bossa-nova", elle se met à chanter dans les rues de Paris pour s'offrir le luxe précaire de la liberté. Dans les caves de Saint-Germain-des-Prés qu'elle fréquente, l'intrépide tombe un soir dans les bras de João Gilberto, avant de l'épouser et de s'envoler avec lui pour New York. Dévouée dès lors corps et âme à l'artiste tourmenté, père de leur fille Bebel, Miúcha finit par se morfondre, attendant la nuit pour plaquer secrètement quelques accords à la guitare. Encouragée par le saxophoniste Stan Getz, elle ose bientôt ses premières compositions, dont "Izaura", dans l'ombre d'un João Gilberto de plus en plus jaloux.</desc>
+    <credits>
+      <director>Liliane Mutti</director>
+      <actor>Stan Getz</actor>
+      <actor>Antonio Carlos Jobim</actor>
+      <actor>Vinicius de Moraes</actor>
+      <actor>Chico Buarque</actor>
+      <actor>João Gilberto</actor>
+      <actor>Miúcha</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film documentaire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/1d622f4caf8e40578edf58ba2e2d9ad9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202010500 +0100" channel="C111.api.telerama.fr" stop="20241202024000 +0100">
+    <title>Claudio Monteverdi : "Vêpres de la Vierge" depuis la cathédrale Saint-Pierre de Worms</title>
+    <desc lang="fr">Il y a cinquante ans, seuls de rares spécialistes connaissaient les "Vêpres de la Vierge" de Monteverdi. Les choses ont bien changé. Opter pour une exécution dans un lieu de culte revenait à renouer avec les origines liturgiques de cette musique. C'est le choix de La Fonte Musica, qui a choisi des antiennes du corpus marial.</desc>
+    <category lang="fr">musique : classique</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/9703af28754942b29991c79fd0735643.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202024000 +0100" channel="C111.api.telerama.fr" stop="20241202040500 +0100">
+    <title>L'art de la danse : Cunningham</title>
+    <desc lang="fr">Le portrait de Merce Cunningham, célèbre chorégraphe américain mort en 2009, à l'âge de 90 ans. Le film s'intéresse particulièrement à son travail des années 1940 à 1970, durant lesquelles il accéda à la célébrité. Considéré par certains comme celui qui a marqué le passage de la danse moderne à la danse contemporaine, Merce Cunningham collabora notamment avec le compositeur John Cage, avec qui il vécut, le peintre Robert Rauschenberg, ou encore Andy Warhol. Pour montrer l'ampleur de son travail, Alla Kovgan a réuni des images d'archives et des extraits d'interviews, mais a également filmé les danseurs de sa compagnie interprétant ses créations... - Critique : La réalisatrice russe Alla ­Kovgan, autrice de ce passionnant documentaire sur Merce Cunningham, a découvert le travail du grand chorégraphe américain non pas par la danse, mais par le cinéma expérimental. La version de la pièce Variations V filmée par le réalisateur d’avant-garde Stan Vanderbeek, sur une musique de John Cage, a été pour elle une vraie révélation. Merce Cunningham fut en effet l’un des premiers chorégraphes à employer la ­vidéo comme instrument de travail. Alla Kovgan lui rend aujourd’hui hommage, en utilisant d’émouvantes images d’archives où l’on voit le chorégraphe au travail, puissant et souple : plans serrés sur ses pieds, ses bras, son cou, au service de son œuvre, qu’il ­refusait de qualifier de « moderne » : « Mes danseurs et moi formons un groupe d’individus. C’est donc ce que nous sommes, sur scène comme dans la vie, des gens qui bougent. »
+
+La documentariste, qui a effectué un formidable travail de fouille dans les documents éparpillés entre États-Unis et Europe, met aussi à l’honneur, en 3D comme le fit Wim Wenders dans son documentaire Pina (consacré à la chorégraphe allemande Pina Bausch en 2011), quatorze chorégraphies créées au cours de ces trois ­décennies, interprétées par les derniers danseurs de la compagnie. Toutes les pièces ont été tournées dans des lieux différents, du tunnel sous l’Elbe de Hambourg au toit du centre Westbeth (filmé par hélicoptère), à New York, en passant par un parking de Cologne. Autant de lieux bruts, à l’image de l’œuvre de Merce Cunningham, avide d’espace et de liberté.</desc>
+    <credits>
+      <actor>John Cage</actor>
+      <actor>Carolyn Brown</actor>
+      <actor>Ashley Chen</actor>
+      <actor>Brandon Collwes</actor>
+      <actor>Dylan Crossman</actor>
+      <actor>Julie Cunningham</actor>
+      <actor>Jennifer Goggans</actor>
+      <actor>Lindsey Jones</actor>
+      <actor>Cori Kresge</actor>
+      <actor>Daniel Madoff</actor>
+      <actor>Rashaun Mitchell</actor>
+      <actor>Marcie Munnerlyn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film documentaire</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/20/17f03abb7861445b34856088ed6969ff41a4e6df.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202040500 +0100" channel="C111.api.telerama.fr" stop="20241202051000 +0100">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202051000 +0100" channel="C111.api.telerama.fr" stop="20241202054500 +0100">
+    <title>Roumanie : un cimetière haut en couleur</title>
+    <desc lang="fr">Avec ses croix colorées, le "cimetière joyeux" de Sapanta, en Roumanie, jouit d'une renommée mondiale. Et pour cause : il invite à rire de la mort. Depuis trois ans, Ioan Stan Patras s'occupe de la fabrication des croix, une tâche qu'il a héritée de son beau-père. Une lourde pression pèse sur ses épaules : le village (et notamment l'église, à qui incombe la gestion du cimetière) vit du tourisme...</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/16/9065f2ba4ada4c82981f1594bb267a14.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202054500 +0100" channel="C111.api.telerama.fr" stop="20241202055500 +0100">
+    <title>Le dessous des images</title>
+    <sub-title>Trickshots : la folie du coup de maître</sub-title>
+    <desc lang="fr">Une esthétique "fait maison", des lancers parfaits et improbables, des spectateurs en alerte et enfin des cris de joie : voici la recette du trickshot qui marche à tous les coups ! Présenté par Sonia Devillers, le magazine qui analyse les images de notre époque.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/16/b23a4acb3f284aa6bfb840063d99575e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202055500 +0100" channel="C111.api.telerama.fr" stop="20241202065000 +0100">
+    <title>L'Europe dans tous ses (petits) Etats</title>
+    <sub-title>Andorre</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - La principauté d'Andorre, située à cheval entre la France et l'Espagne, abrite 77 000 habitants, gouvernés selon un système de cosuzeraineté unique au monde.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/32503439_AA865B9EF8B016F43BDBD012B04B5469.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202065000 +0100" channel="C111.api.telerama.fr" stop="20241202065500 +0100">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202065500 +0100" channel="C111.api.telerama.fr" stop="20241202075000 +0100">
+    <title>Cap-Vert, les chiens au secours des tortues</title>
+    <desc lang="fr">Au Cap-Vert, Kelo et Karetta, deux labradors venus de Suisse, participent à la lutte contre le braconnage et à la préservation des bébés tortues.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/03/6ea9c2f9f70497f5b000fa29fb00676b3120b793.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202075000 +0100" channel="C111.api.telerama.fr" stop="20241202083500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au Nouveau-Mexique, l'éveil de D. H. Lawrence - Les Auvergnats à la conquête de Paris - Truganini, la rescapée de Tasmanie.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/21/998bbe282151cee1b67300f5be87546ae777278f_197D33633F8379F253B938385EF8553D.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202083500 +0100" channel="C111.api.telerama.fr" stop="20241202092500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Le Texas, parenthèse fertile de Georgia O'Keeffe - Si la Corée du Sud était une jarre de lune - À Toulon, le grand plongeon.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/16/3ec3b953f8c949c4bf2ea081a89c3578.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202092500 +0100" channel="C111.api.telerama.fr" stop="20241202105000 +0100">
+    <title>Bio, la crise de foi</title>
+    <desc lang="fr">Longtemps, l'agriculture biologique a surfé sur son excellente image - celle d'exploitations familiales, respectueuses de l'environnement et du bien-être animal, garantes d'une alimentation plus saine - pour séduire des consommateurs rebutés par les excès de l'agro-industrie. Mais après une décennie de croissance fulgurante, qui a vu doubler la consommation mondiale de produits estampillés bio, les ventes s'effondrent. Si l'inflation a poussé les budgets modestes à renoncer à ces denrées vendues jusqu'à 30% plus cher, la conjoncture économique n'est pas seule responsable : on assiste désormais à une crise de confiance entre consommateurs et producteurs. Pour accompagner sa croissance, le secteur s'est massivement industrialisé, parfois sous la pression des lobbys de l'agrobusiness.</desc>
+    <category lang="fr">documentaire economie</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/13/164f235cfb854689959aa95d0e305129.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202105000 +0100" channel="C111.api.telerama.fr" stop="20241202114500 +0100">
+    <title>Le bio : un siècle d'histoire</title>
+    <desc lang="fr">Au cours du XIXe siècle, la mécanisation de l'agriculture allège le travail des paysans, tandis que les premiers engrais chimiques font leur apparition. Après la Première Guerre mondiale, les excédents d'ammoniaque - nécessaire à la fabrication des explosifs - sont transformés en engrais azotés et utilisés comme arme contre la crise alimentaire qui frappe l'Europe. Les rendements augmentent, mais les sols se dégradent. Des hommes et des femmes réfléchissent alors à de nouvelles méthodes pour préserver la terre. En 1924, le philosophe autrichien Rudolf Steiner pose les bases de l'agriculture biodynamique. Mais au lendemain de la Seconde Guerre mondiale, le modèle de l'agriculture intensive s'impose, à grand renfort de substances chimiques.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/13/738336bed6c5402a83b9f91a4ebe3da9.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202114500 +0100" channel="C111.api.telerama.fr" stop="20241202120500 +0100">
+    <title>Faire l'histoire</title>
+    <sub-title>La barricade, l'insurrection fortifiée</sub-title>
+    <desc lang="fr">Paris, 12 mai 1588 : la journée des Barricades marque un point d'orgue des guerres de Religion, qui opposent catholiques et protestants dans la France du XVIe siècle.</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/19/15a75114a45a449f9d7457634974c211.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202120500 +0100" channel="C111.api.telerama.fr" stop="20241202133500 +0100">
+    <title>Itinéraires sauvages</title>
+    <sub-title>A Célèbes</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Ile d'Indonésie, Célèbes associe jungle, montagnes et plages paradisiaques. Pour en goûter toute la richesse, il faut s'aventurer sur la route transsulawesienne.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/16/5b85a9b30f0b44efbaf7f6594f6af492.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202133500 +0100" channel="C111.api.telerama.fr" stop="20241202154500 +0100">
+    <title>Jeux interdits</title>
+    <desc lang="fr">En juin 1940, Paulette, une fillette âgée de cinq ans et ses parents sont jetés, comme des centaines de familles, sur les routes de l'exode. Un bombardement tue net le couple, laissant la petite fille seule au bord d'une route inconnue. Elle est bientôt recueillie par les Dollé, une famille de paysans. Paulette refuse de se séparer du cadavre de son chien, qu'elle veut enterrer. Le fils des Dollé, Michel, âgé de 11 ans, aménage alors un cimetière d'animaux, où les deux enfants ensevelissent solennellement d'autres bêtes. Une complicité profonde s'installe entre Paulette et Michel... - Critique : À 5 ans, Paulette trottine en famille sur les routes du Cantal pendant l’exode de 1940. Une pluie d’obus tue ses parents et son chien. Désormais seule, elle rencontre Michel, un peu plus âgé qu’elle, qui tanne sa famille pour qu’elle adopte l’orpheline.
+
+À force d’entendre les débutants à la guitare égratigner sa musique, on avait fini par oublier la perfection du film. Célèbre pour avoir tourné, dès 1945, le premier film événement sur la Résistance (La Bataille du rail), René Clément reprend un thème proche avec la même rigueur documentaire, assortie d’un humanisme délicat et tragiquement féerique. Il épin­gle sans pitié la hargne clanique de familles paysannes qui se jalousent et défendent leurs petits intérêts.
+
+Bien avant Charles Laughton et sa légendaire Nuit du chasseur, il s’immisce aussi dans l’imaginaire morbide et franc de l’enfance, avec son lot d’images oniriques lourdes en symboles : un hibou au regard scru­tateur, un poussin à l’agonie… Comme pour remplacer son chien, mort à sa place, Paulette erre sans autre arme que son instinct trop pur, petit animal perdu à qui la Croix-Rouge prend finalement soin de mettre un collier. Brigitte Fossey est bouleversante.</desc>
+    <credits>
+      <actor>Brigitte Fossey</actor>
+      <actor>Jacques Marin</actor>
+      <actor>Georges Poujouly</actor>
+      <actor>Madeleine Barbulée</actor>
+      <actor>Laurence Badie</actor>
+      <actor>Suzanne Courtal</actor>
+      <actor>Lucien Hubert</actor>
+      <actor>Denise Péronne</actor>
+      <actor>Pierre Merovée</actor>
+      <actor>Amédée</actor>
+      <actor>Fernande Roy</actor>
+      <actor>Violette Monnier</actor>
+      <writer>René Clément</writer>
+      <writer>Pierre Bost</writer>
+      <writer>Jean Aurenche</writer>
+    </credits>
+    <date>1952</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/18265378_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202154500 +0100" channel="C111.api.telerama.fr" stop="20241202163500 +0100">
+    <title>La Suisse sauvage *2022</title>
+    <sub-title>La région de la Jungfrau</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Entre sécheresse minérale, sommets vertigineux et étendues d'eau majestueuses, la région de la Jungfrau est marquée par les contrastes. Tour d'horizon.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/11/5283d8c0cc50432ab08403de0b521019.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202163500 +0100" channel="C111.api.telerama.fr" stop="20241202172000 +0100">
+    <title>Terre de légendes</title>
+    <sub-title>Florilège</sub-title>
+    <desc lang="fr">Quatre lieux exceptionnels ont été façonnés par les éléments : l'archipel de Hawaï, les îles Féroé, l'archipel des Palaos en Micronésie et les plaines états-uniennes.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/12/09bd5689586541f393cf8aed4e20cd6f.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202172000 +0100" channel="C111.api.telerama.fr" stop="20241202180500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au crépuscule du communisme, les cités austères et bétonnées de Varsovie ont fait le décor d'un chef-d'œuvre du cinéma polonais : "Le Décalogue" de Krzysztof Kieślowski. Dix films, directement inspirés des dix commandements de la Bible, racontent la société polonaise des années 80 tout en questionnant l'universelle complexité de l'humanité.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/19/4e247b6526754aa78e790d70b954244f.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202180500 +0100" channel="C111.api.telerama.fr" stop="20241202185500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">En Polynésie, le mariage fantasmé de Pierre Loti - Valence, juge et arbitre des eaux - En Islande, échec et mat.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/22/8d88156154cf4e2f00917e74c2e0bf93a519bab7_1A45C52E13148DE0D36B6753A648FF54.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202185500 +0100" channel="C111.api.telerama.fr" stop="20241202193000 +0100">
+    <title>Le fragile retour des vautours en Europe</title>
+    <desc lang="fr">Il y a une vingtaine d'années, le vautour avait quasiment disparu d'Europe. Grâce à des campagnes de réintroduction, vautours fauves, vautours moines, percnoptères et gypaètes barbus évoluent de nouveau au-dessus des Alpes et des montagnes allemandes. Mais diverses menaces pèsent sur leur retour.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/19/b5209be610524177b79c32af9076569f.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202193000 +0100" channel="C111.api.telerama.fr" stop="20241202194500 +0100">
+    <title>Le dessous des images</title>
+    <sub-title>Corée du Nord : dans la fabrique de la bombe atomique</sub-title>
+    <desc lang="fr">Sur cette photo, Kim Jong-un apparaît entouré de centrifugeuses qui servent à enrichir l'uranium, élément essentiel à la production d'armes nucléaires. Pourquoi cette image affirme-t-elle le caractère irréversible du programme nucléaire nord-coréen ?</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202194500 +0100" channel="C111.api.telerama.fr" stop="20241202200500 +0100">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 02/12/2024</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202200500 +0100" channel="C111.api.telerama.fr" stop="20241202205000 +0100">
+    <title>28 minutes</title>
+    <desc lang="fr">Le point sur l'actualité, avec un invité témoin et un débat sur le sujet chaud du jour, en compagnie de plusieurs journalistes. Chaque vendredi, un club d'intellectuels revisite l'actualité de la semaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202205000 +0100" channel="C111.api.telerama.fr" stop="20241202205500 +0100">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241202205500 +0100" channel="C111.api.telerama.fr" stop="20241202222500 +0100">
+    <title>Le corbeau</title>
+    <desc lang="fr">Une petite ville française est frappée d'une maladie contagieuse. Des lettres anonymes accusent le docteur Germain d'être l'amant de Laura, la femme de l'un de ses collègues, le docteur Vorzet. Les lettres portent la signature, énigmatique, du "Corbeau". Les premiers soupçons des principaux concernés se portent sur Denise, la fille de l'instituteur chez qui loge Germain, puis sur une jeune perverse, Rolande, et enfin sur Marie Corbin, l'assistante de Vorzet. Bientôt, pourtant, le "Corbeau" désigne tous les notables à la vindicte publique. Qui est-il ? L'enquête de la préfecture ne parvient pas à le démasquer... - Critique : Il pleut des lettres anonymes sur Saint-Robin, « un petit village, ici ou ailleurs », et comme l’annonce le narquois Dr Vorzet : « Quand ces saloperies se déclarent, on ne sait pas où elles s’arrêtent… » Tourné en 1943 pour la Continental, dirigée par l’occupant allemand, le deuxième film de Clouzot fut honni de tous. Cette foire délétère à la ­délation ne pouvait que déplaire aux résistants et fut condamnée à la Libération. Très loin de célébrer le travail, la famille et la patrie, elle n’était pas non plus du goût de Vichy.
+
+Clouzot, trop misanthrope pour être propagandiste, ne fait qu’explorer la noirceur de l’âme humaine, noir corbillard, avec quelques zones de lumière. Comme dans la grande scène expressionniste (qu’admirait Hitchcock) où le balancement d’une ampoule illustre la notion relative, alternative, du bien et du mal. Les lettres anonymes lui servent d’alibis pour traiter d’avortement, de drogue ou d’adultère, avec une liberté incroyable.
+
+Les seuls personnages sauvés, dans ce chef-d’œuvre de méchanceté ? Une infirme aux mœurs légères (Ginette Leclerc, vulgaire à cœur) et un type fâché avec la vie (Pierre Fresnay, ­superbe) qu’elle réussit à ébranler en le traitant de « bourgeois ». Pour Clouzot, la pire insulte qui soit.</desc>
+    <credits>
+      <actor>Héléna Manson</actor>
+      <actor>Larquey Pierre</actor>
+      <actor>Louis Seigner</actor>
+      <actor>Roquevert Noël</actor>
+      <actor>Pierre Fresnay</actor>
+      <actor>Jean Brochard</actor>
+      <actor>Ginette Leclerc</actor>
+      <actor>Antoine Balpêtré</actor>
+      <actor>Lancret Bernard</actor>
+      <actor>Micheline Francey</actor>
+      <actor>Jeanne Fusier-Gir</actor>
+      <actor>Liliane Maigné</actor>
+      <writer>Clouzot Henri-Georges</writer>
+      <writer>Louis Chavance</writer>
+    </credits>
+    <date>1943</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/08/06/253cd2d5eecf470483fdc760eea01403.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241202222500 +0100" channel="C111.api.telerama.fr" stop="20241203002000 +0100">
+    <title>Conversation secrète</title>
+    <desc lang="fr">Pour le compte d'un énigmatique Mister C, Harry Caul, un spécialiste des écoutes téléphoniques, capte la conversation entre une femme et un homme, au moyen d'un équipement ultra-perfectionné. De retour chez lui, il passe en boucle le dialogue du jeune couple, Mark et Ann. Très vite, Caul comprend qu'ils se sentent en danger et refuse de remettre les bandes à son commanditaire. En effectuant différents montages, il tente d'en apprendre davantage sur la menace qui pèse sur les jeunes gens. En son absence, son appartement est cambriolé. Les enregistrements disparaissent. Caul décide d'exploiter sa seule piste : l'adresse d'un hôtel où les jeunes gens pensent qu'ils vont être assassinés... - Critique : Dans le domaine de la surveillance privée, Harry Caul, solitaire et glacé, est un as. Mais voilà qu’en espionnant, visuellement et auditivement, un couple dans un parc, il se persuade que les photos et les enre­gistrements qu’il va fournir à son employeur vont provoquer un meurtre…
+
+C’est une époque où Francis Ford Coppola avait de l’ambition et un sacré talent. La séquence d’ouverture, par exemple, où l’on voit le couple être pris au piège, apparaît savamment et suavement mise en scène. Presque antonionien, par les idées sinon par le style, Conversation secrète est une réflexion passionnante sur l’apparence (comme l’est Blow-up) et les pièges qu’elle recèle. Mais c’est aussi, bien sûr, en un temps où le cinéma américain avait l’habitude de dénoncer ses tares — nous sommes en plein Watergate —, une plongée inquiétante dans la paranoïa d’un individu et d’une nation. Certes, les moyens techniques qui permettent au héros de s’infiltrer dans la vie des gens ont bien évolué depuis, mais, paradoxalement, le côté désuet des écoutes de Gene Hackman rend encore plus effrayant et dérisoire son professionnalisme, avec sa sécheresse, son refus des autres, qui masquent si mal ses troubles et ses névroses. Cette formidable méditation sur l’aveuglement et la responsabilité, servie par une étonnante musique de David Shire, crée une angoisse diffuse. Palme d’or du Festival de Cannes 1974, cinq ans avant celle d’Apocalypse Now.</desc>
+    <credits>
+      <actor>Gene Hackman</actor>
+      <actor>Teri Garr</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Cindy Williams</actor>
+      <actor>Frederic Forrest</actor>
+      <actor>Michael Higgins</actor>
+      <actor>Mark Wheeler</actor>
+      <actor>John Cazale</actor>
+      <actor>Allen Garfield</actor>
+      <actor>Elizabeth MacRae</actor>
+      <actor>Phoebe Alexander</actor>
+      <actor>Robert Duvall</actor>
+    </credits>
+    <date>1974</date>
+    <category lang="fr">film de suspense</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/12/29ad153dc6a9401d858fe807b9fd5047.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

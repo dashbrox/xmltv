@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241130235500" channel="C111.api.telerama.fr" stop="20241201004500">
+    <title>Court-circuit</title>
+    <sub-title>Mystères de l'amour</sub-title>
+    <desc lang="fr">Deux courts métrages qui auscultent les mystères de l'amour : "La réputation" de Carmen Leroi et Emmanuel Mouret (2024) et "Faire un enfant" d'Éric K. Boulianne (2023).</desc>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/23/6ce34e4335d64f7d22c83ee7c7f691a6cb7371ff.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201004500" channel="C111.api.telerama.fr" stop="20241201014000">
+    <title>What Mary Didn't Know</title>
+    <desc lang="fr">Sur un bateau de croisière en Méditerranée, une adolescente suédoise qui lutte contre l'ennui s'amourache d'un jeune membre de l'équipage.</desc>
+    <credits>
+      <actor>Yasin Houicha</actor>
+      <actor>Carl Johan Merner</actor>
+      <actor>Asa Jonson</actor>
+      <actor>Tora Sandström</actor>
+      <actor>Silas Strand</actor>
+      <actor>MYRTO KONTONI</actor>
+      <writer>Kotzamani Konstantina</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">film : court métrage dramatique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/17/24b34d04798e42e98cc181a96a54858d.jpg" />
+    <premiere />
+    <subtitles type="onscreen">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201014000" channel="C111.api.telerama.fr" stop="20241201023500">
+    <title>Alain Resnais, l'audacieux</title>
+    <desc lang="fr">Alain Resnais est né il y a cent ans. Enfant isolé par une santé fragile, il forge sa différence au sein d'une famille bretonne cultivée, mais conservatrice, qui le destine à prendre la suite d'un père pharmacien. Cependant ses aspirations, nourries par les comics américains et les romans d'aventure, le conduisent à Paris : il veut devenir acteur. Incorrigible angoissé, il n'est pas fait pour la scène et va trouver à l'Idhec, comme apprenti monteur, un terrain de jeu plus adapté. Son destin de réalisateur finit par le rattraper.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/08/31/320be80235f8237d6e3cde5d709ec2a6d58bdcac.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201023500" channel="C111.api.telerama.fr" stop="20241201033200">
+    <title>Dulab Alpaloma : Une ronde musicale</title>
+    <desc lang="fr">Une quinzaine de musiciens du monde entier se donnent la réplique pour créer une version internationale de la chanson "La Paloma". Un patchwork de genres bariolé.</desc>
+    <category lang="fr">musique : variétés</category>
+    <length units="minutes">57</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/17/5a08ccf2370547928d2e23b077390e17.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201033200" channel="C111.api.telerama.fr" stop="20241201040500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">33</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201040500" channel="C111.api.telerama.fr" stop="20241201043500">
+    <title>Les grands palais de la nuit</title>
+    <sub-title>Le Moulin-Rouge</sub-title>
+    <desc lang="fr">Ouvert en 1889, le Moulin-Rouge attire une clientèle hétéroclite mêlant artistes de renom et bourgeois en quête d'aventure venus s'encanailler auprès de filles de "mauvaise vie".</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/04/7c53c605387943cc8b5b2f7d761eecda.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201043500" channel="C111.api.telerama.fr" stop="20241201053000">
+    <title>Robert Redford</title>
+    <desc lang="fr">Né en 1936 à Santa Monica, en Californie, Robert Redford a dépassé l'image de sex-symbol qu'on cherchait à lui imposer. Celui qui se rêvait peintre après un passage par les Beaux-Arts de Paris, a incarné plus que quiconque au cinéma le versant solaire de l'Amérique, entre persévérance, indépendance, idéalisme et intégrité. De la cause écologique, qu'il a défendue en pionnier, à la critique des dérives des institutions, il a mis sa prodigieuse filmographie au service de ses engagements politiques. Archives, extraits de films et analyses de spécialistes retracent l'éblouissante carrière d'une légende aux multiples facettes.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/20/8379dacf70771a05505dc23a19e99d0f71619d5c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201053000" channel="C111.api.telerama.fr" stop="20241201062000">
+    <title>Survivre aux catastrophes : les stratégies de la nature</title>
+    <desc lang="fr">La faune et la flore disposent d'étonnantes ressources pour s'adapter à la recrudescence des phénomènes climatiques extrêmes. Seront-elles suffisantes ?</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/9619aef4078e19efc2162e75596510487c605a01.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201062000" channel="C111.api.telerama.fr" stop="20241201071500">
+    <title>Le Blob, un génie sans cerveau</title>
+    <desc lang="fr">De son nom savant "Physarum polycephalum", le blob, qui n'a pas de forme fixe, peut mesurer jusqu'à 10 mètres carrés. Composé d'une seule cellule géante, ni plante, ni animal, ni champignon, il existe depuis plus d'un milliard d'années. Certains ressemblent à de grosses éponges, d'autres à des lichens ou à des coraux. Selon les espèces, cet organisme unicellulaire peut être jaune, mais aussi blanc, noir, gris, marron, bleu, rose ou rouge. Présent principalement dans les sous-bois des zones tempérées, le blob prospère à l'abri de la lumière dans un environnement humide. Bien que dépourvu de bouche, d'estomac, d'yeux et de pattes, il mange bactéries, levures et champignons, digère, perçoit la lumière et se déplace à la vitesse de 1cm/heure. - Critique : Cette chose n’a pas de visage, mais perçoit la lumière. N’a pas d’estomac, mais sait comment se nourrir. N’a pas de cerveau, mais peut sortir d’un labyrinthe, sans pattes ni muscles. Cette chose, c’est le blob. Un organisme unicellulaire (c’est-à-dire une cellule) aux faux airs d’éponge ou de lichen… Il s’épanouit principalement dans l’humidité des sous-bois depuis près d’un milliard d’années, mais aussi, depuis un peu moins de temps, dans les laboratoires des scientifiques. C’est là le terrain de jeu de ce documentaire, qui ne se contente pas de décrire cette drôle de créature, mais lance des réflexions passionnantes sur l’intelligence. Peut-on être intelligent sans cerveau ? Puisque le blob parvient à résoudre des problèmes et fait preuve, depuis un bon bout de temps, d’une indéniable capacité d’adaptation, il faut croire que oui. Plus étonnant encore, il a de la mémoire et sait transmettre des informations à ses semblables. C’est sidérant, et précieux pour mieux comprendre le développement des tumeurs, notamment. D’après ce doc passionnant, le blob pourrait devenir un bon ami.</desc>
+    <credits>
+      <actor>Steve McQueen</actor>
+      <actor>Audrey Dussutour</actor>
+      <actor>Andrew Adamatsky</actor>
+      <actor>Hans-Günther Döbereiner</actor>
+      <actor>Stefano Mancuso</actor>
+      <actor>Toshiyuki Nakagaki</actor>
+      <actor>Jonghyun Lee</actor>
+      <actor>Frantisek Baluska</actor>
+      <actor>Michael Levin</actor>
+      <actor>Daniel Schenz</actor>
+      <writer>Mitsch Jacques</writer>
+      <writer>Laurent Mizrahi</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/92bd8d4e764e491382f3c6cf7483aaeb.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201071500" channel="C111.api.telerama.fr" stop="20241201073000">
+    <title>ARTE Junior, le mag</title>
+    <desc lang="fr">Pour les 10-14 ans, l'actualité internationale et européenne traitée à hauteur d'enfant, à partir de questions posées par des élèves du primaire français et allemand. Sans oublier le portrait d'un enfant du monde.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/17/a3ffb319739f469685547895a94632d9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201073000" channel="C111.api.telerama.fr" stop="20241201080000">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>D'où vient la cohésion de l'univers ?</sub-title>
+    <desc lang="fr">Le Soleil n'est qu'une étincelle dans un infini feu d'artifice céleste et la voie lactée un grain de sable dans un océan de galaxies. Il existe quelque chose qui confère à l'univers sa forme et en assure la cohésion. Selon les scientifiques, il s'agirait d'une force mystérieuse : la matière noire. Mais comment trouver une substance qui ne dégage aucune lumière, ne reflète rien et n'a quasiment aucune interaction avec les atomes ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/18dc6465af52456ca813c3482959f952.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201080000" channel="C111.api.telerama.fr" stop="20241201083000">
+    <title>Les grands palais de la nuit</title>
+    <sub-title>Windmill Theatre, Londres</sub-title>
+    <desc lang="fr">Le Moulin-Rouge à Paris, le Friedrichstadt-Palast à Berlin : entre autres célèbres "palais de la nuit", découverte du Windmill Theatre de Londres, avec ses danseuses nues aux poses immobiles.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/23ac8169c084422c86382855e73d2ce4.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201083000" channel="C111.api.telerama.fr" stop="20241201090000">
+    <title>Twist</title>
+    <desc lang="fr">Rencontre avec les artistes d'une métropole européenne autour d'une question en lien avec l'actualité.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/27/1ac99222ab334c4294810baecad16c64.jpeg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201090000" channel="C111.api.telerama.fr" stop="20241201094500">
+    <title>Bulgarie : Une sorcière, des esprits et des bêtes</title>
+    <desc lang="fr">Dans les montagnes bulgares, les derniers habitants du village de Pirin vivent au plus près de leurs animaux, qu'ils entourent de croyances et de superstitions.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/30bd71ebbb1e42dd8290bcee3ea3cd9f.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201094500" channel="C111.api.telerama.fr" stop="20241201101500">
+    <title>Cuisines des terroirs</title>
+    <sub-title>Roros, Norvège</sub-title>
+    <desc lang="fr">Les Sami sont le dernier peuple autochtone d'Europe à vivre de l'élevage de rennes. Hilde et Mattis Danielsen, tous deux Sami, se nourrissent de mousses et lichens et de viande de renne.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/b795175834de4459967038ebbab81b7d.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201101500" channel="C111.api.telerama.fr" stop="20241201110000">
+    <title>Food Markets</title>
+    <sub-title>Le ventre d'Amsterdam : Marchés et dégustations</sub-title>
+    <desc lang="fr">Saison:3 - Episode:5 - Dans le quartier populaire De Pijp s'étend un des plus anciens et des plus réputés marchés d'Amsterdam ; on y trouve harengs et huîtres locales.</desc>
+    <date>2017</date>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/16/0ae528d6169c906488fc8ddd2a4326265934888c_7C7A0E759D91FD9066FB17CE47B1E92C.jpg" />
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201110000" channel="C111.api.telerama.fr" stop="20241201123500">
+    <title>Food Markets</title>
+    <sub-title>Le ventre d'Helsinki : La vieille halle du marché</sub-title>
+    <desc lang="fr">Saison:3 - Episode:2 - La vieille halle du marché d'Helsinki a été édifiée en brique au XIXe siècle afin de fournir toute l'année des aliments frais aux habitants de la ville.</desc>
+    <date>2017</date>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/11/1f806e4943d55cf458ee797309f1f9e9a342cc7b.jpg" />
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201123500" channel="C111.api.telerama.fr" stop="20241201143500">
+    <title>Viva Maria !</title>
+    <desc lang="fr">Fille d'un terroriste irlandais, Maria Fitzgerald O'Malley manipule depuis sa plus tendre enfance des bombes, des grenades et autres explosifs. Après la mort tragique de son père, elle se retrouve livrée à elle-même dans une colonie anglaise d'Amérique latine. Elle fait la connaissance de plusieurs membres d'une troupe de music-hall ambulant, qui lui proposent une place de duettiste "parisienne". Sa partenaire porte le même prénom qu'elle. Sous son égide, Maria découvre les charmes de l'amour et invente le strip-tease en mettant à profit un accident vestimentaire. Les pérégrinations de la troupe la conduisent dans un Etat sujet aux révolutions... - Critique : 1907, Amérique latine : Maria la brune (Jeanne Moreau) est chanteuse dans un cirque, Maria la blonde (Brigitte Bardot) est fille d’un activiste irlandais en fuite. La rencontre des deux stars du cinéma français des années 1960 dans une parodie de western à la sauce burlesque devait faire des étincelles, les journaux à scandale épiant le moindre crêpage de chignon. Mais sur le tournage comme sur l’écran, la confrontation a fait pshitt. Les deux actrices se sont bien entendues, et l’inanité du scénario (coécrit par Jean-Claude Carrière pourtant…) les a empêchées de briller.
+
+On a dit que Louis Malle avait réalisé un film féministe culotté ? Juste parce qu’il a « osé » un film sans rôle masculin important, chose, il est vrai, rare à l’époque… Sauf que ses deux héroïnes sont des gourdes qui se pâment dès qu’elles croisent un miroir, s’effeuillent à plusieurs reprises devant un parterre d’hommes excités et se lancent dans la guerre civile mexicaine seulement par amour pour un beau révolutionnaire exécuté (Maria la brune a eu le temps de lui lécher le torse avant sa mise à mort). « C’est merveilleux, l’amour ! » s’exclame, ravie, Maria la blonde après être partie avec trois inconnus en calèche. Osons, pour finir, un « Caramba ! » de dépit…</desc>
+    <credits>
+      <actor>George Hamilton</actor>
+      <actor>Jeanne Moreau</actor>
+      <actor>Brigitte Bardot</actor>
+      <actor>Paulette Dubost</actor>
+      <actor>Claudio Brook</actor>
+      <actor>Carlos López</actor>
+      <actor>Francisco Reiguera</actor>
+      <actor>Jonathan Eden</actor>
+      <actor>Poldo Bendandi</actor>
+      <actor>Gregor von Rezzori</actor>
+      <actor>José Ángel Espinosa 'Ferrusquilla'</actor>
+      <actor>Roberto Pedret</actor>
+      <writer>Louis Malle</writer>
+      <writer>Jean-Claude Carrière</writer>
+    </credits>
+    <date>1965</date>
+    <category lang="fr">film : comédie</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/29/78ec2e95e684426ab12ad9260eb9998a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201143500" channel="C111.api.telerama.fr" stop="20241201150000">
+    <title>Marchés du monde</title>
+    <sub-title>Vietnam, le marché flottant</sub-title>
+    <desc lang="fr">Dans le delta du Mékong, dans le sud du Viêtnam, le marché flottant de Cai Rang est une véritable microsociété, avec sa culture et ses règles.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/01/0ad4d2850c2b49d7b989bab031172977.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201150000" channel="C111.api.telerama.fr" stop="20241201154500">
+    <title>Food Markets</title>
+    <sub-title>Le ventre de Munich : Le marché Viktualienmarkt</sub-title>
+    <desc lang="fr">Saison:3 - Episode:4 - De marché aux produits agricoles destiné aux agriculteurs, le marché Viktualienmarkt de Munich est devenu le paradis des badauds et des touristes gastronomes.</desc>
+    <date>2017</date>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/10/4fd039812906139e0be9c294ef94df40cce2fd12_6F231D029D93ADDBEBA82D7E69F62D8C.jpg" />
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201154500" channel="C111.api.telerama.fr" stop="20241201163000">
+    <title>Food Markets</title>
+    <sub-title>Le ventre de Palerme : Le marché de Ballaro</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Plus grand marché de Palerme, le Ballaro propose au visiteur des produits issus de l'agriculture sicilienne, dans une ambiance où se ressent l'influence arabe.</desc>
+    <date>2012</date>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/11/1f806e4943d55cf458ee797309f1f9e9a342cc7b.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201163000" channel="C111.api.telerama.fr" stop="20241201172500">
+    <title>Les perles du Cameroun : Un héritage colonial allemand</title>
+    <desc lang="fr">Avec quelque 40 000 pièces, l'Allemagne détient toujours la plus importante collection d'objets camerounais au monde. Que faire de cet héritage colonial ?</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/3d8744cf9a594390a7e931b9c2a706ac.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201172500" channel="C111.api.telerama.fr" stop="20241201183000">
+    <title>Le monde de Hans Zimmer</title>
+    <desc lang="fr">En attendant la sortie, le 18 décembre, de "Mufasa : le roi lion", dont il a en partie composé la BO, ce concert donné à Cracovie réunit les plus grandes musiques de film de Hans Zimmer.</desc>
+    <category lang="fr">musique : classique</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/3cdb1faf802946cc97d774ba835d7ebb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201183000" channel="C111.api.telerama.fr" stop="20241201184500">
+    <title>Karambolage</title>
+    <desc lang="fr">Un décryptage amusé des petites différences entre les sociétés française et allemande.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/09/04/dda96042153f541f690c459d7e5f25a902ed52ae_0D06C6C797893FF04978AECC277E5D04.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201184500" channel="C111.api.telerama.fr" stop="20241201190500">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 01/12/2024</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241201190500" channel="C111.api.telerama.fr" stop="20241201200000">
+    <title>Amanda Lear : "Appelez-moi mademoiselle"</title>
+    <desc lang="fr">Troubler pour séduire, séduire pour dissimuler : Amanda Lear cultive brillamment son mystère depuis plus d'un demi-siècle. Au gré du temps et des interviews, la blonde créature a multiplié les versions de sa propre histoire, changeant notamment de date et de lieu de naissance (entre 1939 et 1950, Hongkong ou Saigon). Voix rauque et jambes interminables, elle a surtout entretenu l'ambiguïté sur son identité sexuelle, encouragée par celui dont elle a été la muse : le peintre Salvador Dalí, adepte des coups d'éclat médiatiques, avec lequel elle noue dans les années 1960 une relation à l'aura légendaire.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/04/08/5e49d12617b3c25273a5e75921923f057004b16a_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201200000" channel="C111.api.telerama.fr" stop="20241201223000">
+    <title>Quand les aigles attaquent</title>
+    <desc lang="fr">Durant la Seconde Guerre mondiale, une poignée de soldats alliés gagne le sud de l'Allemagne. Dirigé par John Smith, un officier britannique au flegme imperturbable, le commando est composé de sept hommes et d'une femme. Ils sont parachutés de nuit, en pleine tempête de neige, au pied de la forteresse de Hohenwerfen, quartier général de la Gestapo et des services secrets nazis. Leur mission consiste à délivrer un général américain, prisonnier des Allemands. Mais au moment de passer à l'action, l'un des hommes manque à l'appel. Un peu plus tard, lorsqu'il découvre son cadavre, John Smith comprend qu'un traître est parvenu à infiltrer son groupe... - Critique : 1944 : l’Anglais Smith et l’Américain Schaffer dirigent un commando de parachutistes chargés de délivrer un général américain, détenteur d’importants secrets militaires…
+
+Le scénario est signé par l’auteur des Canons de Navarone, un classique du film de guerre à grand spectacle. Ici, le principe est à peu près le même : réussir à pénétrer dans une forteresse imprenable, puis en ressortir indemne après y avoir fait le maximum de dégâts. Tous les moyens sont bons : déguisés en officiers allemands, Richard Burton et Clint Eastwood grimpent sur le toit d’un téléphérique, zigzaguent en autocar sur les routes de montagne, placent des pièges explosifs à droite et à gauche, et exécutent plusieurs dizaines de nazis. Le suspense est plutôt efficace et les scènes d’action sont spectaculaires à souhait.</desc>
+    <credits>
+      <director>Brian G Hutton</director>
+      <actor>Richard Burton</actor>
+      <actor>Robert Beatty</actor>
+      <actor>Mary Ure</actor>
+      <actor>Michael Hordern</actor>
+      <actor>Clint Eastwood</actor>
+      <actor>Houston Donald</actor>
+      <actor>Wymark Patrick</actor>
+      <actor>Ferdy Mayne</actor>
+      <actor>Ingrid Pitt</actor>
+      <actor>Brook Williams</actor>
+      <actor>Peter Barkworth</actor>
+      <actor>William Squire</actor>
+      <writer>Alistair MacLean</writer>
+    </credits>
+    <date>1968</date>
+    <category lang="fr">film de guerre</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/25/fe738a2abe494b64bb95cb6d915579ab.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241201223000" channel="C111.api.telerama.fr" stop="20241202000500">
+    <title>Miucha, la voix de la bossa nova</title>
+    <desc lang="fr">Née en 1937, Heloísa Maria Buarque de Hollanda, rebaptisée Miúcha par sa famille, grandit entre une mère très catholique et un père intellectuel bohème. Précocement "subjuguée par la bossa-nova", elle se met à chanter dans les rues de Paris pour s'offrir le luxe précaire de la liberté. Dans les caves de Saint-Germain-des-Prés qu'elle fréquente, l'intrépide tombe un soir dans les bras de João Gilberto, avant de l'épouser et de s'envoler avec lui pour New York. Dévouée dès lors corps et âme à l'artiste tourmenté, père de leur fille Bebel, Miúcha finit par se morfondre, attendant la nuit pour plaquer secrètement quelques accords à la guitare. Encouragée par le saxophoniste Stan Getz, elle ose bientôt ses premières compositions, dont "Izaura", dans l'ombre d'un João Gilberto de plus en plus jaloux.</desc>
+    <credits>
+      <director>Liliane Mutti</director>
+      <actor>Stan Getz</actor>
+      <actor>Antonio Carlos Jobim</actor>
+      <actor>Vinicius de Moraes</actor>
+      <actor>Chico Buarque</actor>
+      <actor>João Gilberto</actor>
+      <actor>Miúcha</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film documentaire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/18/1d622f4caf8e40578edf58ba2e2d9ad9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
